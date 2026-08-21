@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<meta name="robots" content="noindex, nofollow">
+<title>Pegasos Fantasy</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐴</text></svg>">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>Pegasos Fantasy</h1>
+    <p id="updated" class="updated">Cargando…</p>
+  </div>
+  <div id="summary" class="summary" aria-live="polite"></div>
+  <nav id="divisions" class="divisions" aria-label="Divisiones"></nav>
+</header>
+
+<div id="notice" class="notice" hidden></div>
+
+<nav class="tabs" aria-label="Secciones">
+  <button class="tab" data-view="classification" aria-label="Clasificación" aria-selected="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 4h8v4a4 4 0 0 1-8 0V4Z"/><path d="M12 12v4M8.5 20h7"/><path d="M16 5.5h2.2a2.2 2.2 0 0 1-2.2 3.2M8 5.5H5.8A2.2 2.2 0 0 0 8 8.7"/></svg>
+    <span>Clasificación</span>
+  </button>
+  <button class="tab" data-view="evolution" aria-label="Evolución" aria-selected="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="4,17 9,12 13,15 20,6"/><path d="M15 6h5v5"/></svg>
+    <span>Evolución</span>
+  </button>
+  <button class="tab" data-view="market" aria-label="Mercado" aria-selected="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 8h11l-1 12h-9z"/><path d="M9.5 8V6.2a2.5 2.5 0 0 1 5 0V8"/></svg>
+    <span>Mercado</span>
+  </button>
+  <button class="tab" data-view="activity" aria-label="Historial" aria-selected="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 7.5V12l3 2"/></svg>
+    <span>Historial</span>
+  </button>
+  <button class="tab" data-view="euro" aria-label="Euro" aria-selected="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M15 9.4a3.6 3.6 0 1 0 0 5.2"/><path d="M8.4 11.2h4.6M8.4 13h4.6"/></svg>
+    <span>Euro</span>
+  </button>
+</nav>
+
+<main id="main">
+  <section id="classification" class="view"></section>
+  <section id="evolution" class="view" hidden></section>
+  <section id="market" class="view" hidden></section>
+  <section id="activity" class="view" hidden></section>
+  <section id="euro" class="view" hidden></section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

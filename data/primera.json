@@ -1,0 +1,5486 @@
+{
+ "slug": "primera",
+ "name": "Primera",
+ "league_name": "PRIMERA PEGASOS",
+ "league_id": "017889602",
+ "built_at": "2026-11-14T20:00:38+00:00",
+ "refreshed_at": "2026-11-14T20:00:38.676319+00:00",
+ "checked_at": "2026-11-14T20:00:38.676319+00:00",
+ "refresh_ok": true,
+ "refresh_error": null,
+ "classification": [
+  {
+   "team_id": "37621151",
+   "team": "La Cerdineta",
+   "position": 1,
+   "previous_position": 1,
+   "points": 665.0,
+   "week_points": 71.0,
+   "value": 331223065.0,
+   "players": 14,
+   "payments": 2,
+   "worst_week": 34.0,
+   "best_week": 72.0,
+   "relegation": false,
+   "promotion": true,
+   "squad": [
+    {
+     "player": "Unai Simón",
+     "position": "POR",
+     "position_id": 1,
+     "value": 40006009.0,
+     "points": 90.0,
+     "average": 7.5,
+     "status": "ok",
+     "clause": 50277452.0
+    },
+    {
+     "player": "M. Dituro",
+     "position": "POR",
+     "position_id": 1,
+     "value": 17107777.0,
+     "points": 74.0,
+     "average": 6.166666666666667,
+     "status": "ok",
+     "clause": 26923423.0
+    },
+    {
+     "player": "Sergio Herrera",
+     "position": "POR",
+     "position_id": 1,
+     "value": 9798020.0,
+     "points": 27.0,
+     "average": 2.25,
+     "status": "ok",
+     "clause": 11256957.0
+    },
+    {
+     "player": "Carreira",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 5125678.0,
+     "points": 45.0,
+     "average": 3.75,
+     "status": "ok",
+     "clause": 11564325.0
+    },
+    {
+     "player": "Lejeune",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 14450954.0,
+     "points": 40.0,
+     "average": 3.3333333333333335,
+     "status": "ok",
+     "clause": 14563666.0
+    },
+    {
+     "player": "Cancelo",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 38786273.0,
+     "points": 35.0,
+     "average": 2.9166666666666665,
+     "status": "ok",
+     "clause": 40252964.0
+    },
+    {
+     "player": "Valentini",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 850141.0,
+     "points": 28.0,
+     "average": 2.5454545454545454,
+     "status": "ok",
+     "clause": 2000000.0
+    },
+    {
+     "player": "Arda Güler",
+     "position": "MED",
+     "position_id": 3,
+     "value": 144144035.0,
+     "points": 125.0,
+     "average": 10.416666666666666,
+     "status": "ok",
+     "clause": 200021022.0
+    },
+    {
+     "player": "Germán V.",
+     "position": "MED",
+     "position_id": 3,
+     "value": 21147995.0,
+     "points": 59.0,
+     "average": 4.916666666666667,
+     "status": "ok",
+     "clause": 24674724.0
+    },
+    {
+     "player": "Canales",
+     "position": "MED",
+     "position_id": 3,
+     "value": 13048592.0,
+     "points": 45.0,
+     "average": 3.75,
+     "status": "ok",
+     "clause": 14365484.0
+    },
+    {
+     "player": "Morcillo",
+     "position": "MED",
+     "position_id": 3,
+     "value": 1638703.0,
+     "points": 39.0,
+     "average": 3.25,
+     "status": "ok",
+     "clause": 4874166.0
+    },
+    {
+     "player": "Moncayola",
+     "position": "MED",
+     "position_id": 3,
+     "value": 3694240.0,
+     "points": 35.0,
+     "average": 2.9166666666666665,
+     "status": "ok",
+     "clause": 9777965.0
+    },
+    {
+     "player": "Satriano",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 20709559.0,
+     "points": 68.0,
+     "average": 5.666666666666667,
+     "status": "ok",
+     "clause": 23306101.0
+    },
+    {
+     "player": "Iker Luque",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 715089.0,
+     "points": 13.0,
+     "average": 1.625,
+     "status": "ok",
+     "clause": 1125252.0
+    }
+   ]
+  },
+  {
+   "team_id": "37622426",
+   "team": "Real Cortijo F.C",
+   "position": 2,
+   "previous_position": 2,
+   "points": 643.0,
+   "week_points": 60.0,
+   "value": 483736623.0,
+   "players": 16,
+   "payments": 1,
+   "worst_week": 20.0,
+   "best_week": 80.0,
+   "relegation": false,
+   "promotion": true,
+   "squad": [
+    {
+     "player": "Dimitrievski",
+     "position": "POR",
+     "position_id": 1,
+     "value": 16787056.0,
+     "points": 72.0,
+     "average": 6.0,
+     "status": "ok",
+     "clause": 28704176.0
+    },
+    {
+     "player": "V. Chust",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 7086207.0,
+     "points": 49.0,
+     "average": 4.083333333333333,
+     "status": "ok",
+     "clause": 8217751.0
+    },
+    {
+     "player": "Ratiu",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 14425185.0,
+     "points": 40.0,
+     "average": 4.444444444444445,
+     "status": "ok",
+     "clause": 16125000.0
+    },
+    {
+     "player": "Abel Bretones",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 4287741.0,
+     "points": 32.0,
+     "average": 2.6666666666666665,
+     "status": "ok",
+     "clause": 4803076.0
+    },
+    {
+     "player": "Belocian",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 1201377.0,
+     "points": 28.0,
+     "average": 3.111111111111111,
+     "status": "ok",
+     "clause": 1459842.0
+    },
+    {
+     "player": "Edu Expósito",
+     "position": "MED",
+     "position_id": 3,
+     "value": 48201329.0,
+     "points": 79.0,
+     "average": 6.583333333333333,
+     "status": "ok",
+     "clause": 48201329.0
+    },
+    {
+     "player": "Sucic",
+     "position": "MED",
+     "position_id": 3,
+     "value": 41518623.0,
+     "points": 66.0,
+     "average": 5.5,
+     "status": "ok",
+     "clause": 41518623.0
+    },
+    {
+     "player": "Marc Roca",
+     "position": "MED",
+     "position_id": 3,
+     "value": 36348783.0,
+     "points": 59.0,
+     "average": 4.916666666666667,
+     "status": "ok",
+     "clause": 38152444.0
+    },
+    {
+     "player": "Rubén García",
+     "position": "MED",
+     "position_id": 3,
+     "value": 14753169.0,
+     "points": 55.0,
+     "average": 4.583333333333333,
+     "status": "ok",
+     "clause": 20000000.0
+    },
+    {
+     "player": "Guido Rodríguez",
+     "position": "MED",
+     "position_id": 3,
+     "value": 11169977.0,
+     "points": 42.0,
+     "average": 4.666666666666667,
+     "status": "ok",
+     "clause": 16321222.0
+    },
+    {
+     "player": "Bernardo Silva",
+     "position": "MED",
+     "position_id": 3,
+     "value": 27508318.0,
+     "points": 39.0,
+     "average": 3.25,
+     "status": "ok",
+     "clause": 27508318.0
+    },
+    {
+     "player": "Iván Martín",
+     "position": "MED",
+     "position_id": 3,
+     "value": 4838518.0,
+     "points": 35.0,
+     "average": 3.1818181818181817,
+     "status": "ok",
+     "clause": 13280330.0
+    },
+    {
+     "player": "Torró",
+     "position": "MED",
+     "position_id": 3,
+     "value": 722258.0,
+     "points": 21.0,
+     "average": 1.75,
+     "status": "ok",
+     "clause": 4549016.0
+    },
+    {
+     "player": "Mbappé",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 182110928.0,
+     "points": 147.0,
+     "average": 12.25,
+     "status": "ok",
+     "clause": 250553274.0
+    },
+    {
+     "player": "Camello",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 58849201.0,
+     "points": 79.0,
+     "average": 6.583333333333333,
+     "status": "ok",
+     "clause": 60000010.0
+    },
+    {
+     "player": "Bil Nsongo",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 13927953.0,
+     "points": 59.0,
+     "average": 4.916666666666667,
+     "status": "ok",
+     "clause": 14870000.0
+    }
+   ]
+  },
+  {
+   "team_id": "37621306",
+   "team": "Samuel Castellanos",
+   "position": 3,
+   "previous_position": 3,
+   "points": 592.0,
+   "week_points": 52.0,
+   "value": 384313186.0,
+   "players": 16,
+   "payments": 4,
+   "worst_week": 25.0,
+   "best_week": 62.0,
+   "relegation": false,
+   "promotion": false,
+   "squad": [
+    {
+     "player": "Gulácsi",
+     "position": "POR",
+     "position_id": 1,
+     "value": 15532772.0,
+     "points": 55.0,
+     "average": 4.583333333333333,
+     "status": "ok",
+     "clause": 27146278.0
+    },
+    {
+     "player": "Emil Audero",
+     "position": "POR",
+     "position_id": 1,
+     "value": 4747528.0,
+     "points": 43.0,
+     "average": 5.375,
+     "status": "ok",
+     "clause": 4850000.0
+    },
+    {
+     "player": "Bartra",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 28982210.0,
+     "points": 67.0,
+     "average": 5.583333333333333,
+     "status": "ok",
+     "clause": 32258000.0
+    },
+    {
+     "player": "Kike Salas",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 29378099.0,
+     "points": 60.0,
+     "average": 6.0,
+     "status": "ok",
+     "clause": 29519614.0
+    },
+    {
+     "player": "Revivo",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 9382988.0,
+     "points": 56.0,
+     "average": 6.222222222222222,
+     "status": "ok",
+     "clause": 12635071.0
+    },
+    {
+     "player": "Juan Iglesias",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 23124330.0,
+     "points": 54.0,
+     "average": 4.5,
+     "status": "ok",
+     "clause": 23124330.0
+    },
+    {
+     "player": "Suazo",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 9391685.0,
+     "points": 47.0,
+     "average": 3.9166666666666665,
+     "status": "ok",
+     "clause": 11306590.0
+    },
+    {
+     "player": "Boselli",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 698413.0,
+     "points": 22.0,
+     "average": 1.8333333333333333,
+     "status": "ok",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Johaneko",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 747925.0,
+     "points": 21.0,
+     "average": 1.9090909090909092,
+     "status": "ok",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Unai Lopez",
+     "position": "MED",
+     "position_id": 3,
+     "value": 31370139.0,
+     "points": 69.0,
+     "average": 5.75,
+     "status": "ok",
+     "clause": 34159658.0
+    },
+    {
+     "player": "Agoumé",
+     "position": "MED",
+     "position_id": 3,
+     "value": 23209672.0,
+     "points": 53.0,
+     "average": 4.416666666666667,
+     "status": "ok",
+     "clause": 23209672.0
+    },
+    {
+     "player": "Peio Canales",
+     "position": "MED",
+     "position_id": 3,
+     "value": 4592496.0,
+     "points": 36.0,
+     "average": 3.6,
+     "status": "ok",
+     "clause": 4592496.0
+    },
+    {
+     "player": "Ramon",
+     "position": "MED",
+     "position_id": 3,
+     "value": 631466.0,
+     "points": 29.0,
+     "average": 2.4166666666666665,
+     "status": "ok",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Raphinha",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 167767644.0,
+     "points": 146.0,
+     "average": 13.272727272727273,
+     "status": "ok",
+     "clause": 190982921.0
+    },
+    {
+     "player": "Iñaki Williams",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 34017702.0,
+     "points": 65.0,
+     "average": 5.416666666666667,
+     "status": "ok",
+     "clause": 34017702.0
+    },
+    {
+     "player": "Raba",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 738117.0,
+     "points": 15.0,
+     "average": 1.25,
+     "status": "ok",
+     "clause": 1000000.0
+    }
+   ]
+  },
+  {
+   "team_id": "37621218",
+   "team": "Floperneta",
+   "position": 4,
+   "previous_position": 4,
+   "points": 592.0,
+   "week_points": 70.0,
+   "value": 370770775.0,
+   "players": 19,
+   "payments": 4,
+   "worst_week": 34.0,
+   "best_week": 70.0,
+   "relegation": false,
+   "promotion": true,
+   "squad": [
+    {
+     "player": "A. Fortuño",
+     "position": "POR",
+     "position_id": 1,
+     "value": 3353087.0,
+     "points": 49.0,
+     "average": 4.083333333333333,
+     "status": "ok",
+     "clause": 20454250.0
+    },
+    {
+     "player": "Szczesny",
+     "position": "POR",
+     "position_id": 1,
+     "value": 725337.0,
+     "points": 1.0,
+     "average": 0.08333333333333333,
+     "status": "ok",
+     "clause": 5000541.0
+    },
+    {
+     "player": "El Hilali",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 20889114.0,
+     "points": 53.0,
+     "average": 4.818181818181818,
+     "status": "ok",
+     "clause": 23199931.0
+    },
+    {
+     "player": "Cucurella",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 53191593.0,
+     "points": 52.0,
+     "average": 4.333333333333333,
+     "status": "ok",
+     "clause": 62568603.0
+    },
+    {
+     "player": "Konaté",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 44639441.0,
+     "points": 50.0,
+     "average": 4.166666666666667,
+     "status": "ok",
+     "clause": 51734981.0
+    },
+    {
+     "player": "Javi Rueda",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 4699405.0,
+     "points": 40.0,
+     "average": 3.3333333333333335,
+     "status": "ok",
+     "clause": 10021212.0
+    },
+    {
+     "player": "De Haas",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 4411661.0,
+     "points": 32.0,
+     "average": 3.5555555555555554,
+     "status": "ok",
+     "clause": 12509961.0
+    },
+    {
+     "player": "Cardona",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 2663593.0,
+     "points": 28.0,
+     "average": 2.3333333333333335,
+     "status": "ok",
+     "clause": 3621322.0
+    },
+    {
+     "player": "Jeremy Toljan",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 815405.0,
+     "points": 18.0,
+     "average": 1.5,
+     "status": "ok",
+     "clause": 1338096.0
+    },
+    {
+     "player": "Q. Hartman",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 994258.0,
+     "points": 16.0,
+     "average": 1.3333333333333333,
+     "status": "ok",
+     "clause": 2383492.0
+    },
+    {
+     "player": "E. Militão",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 6003976.0,
+     "points": 2.0,
+     "average": 0.5,
+     "status": "ok",
+     "clause": 12550648.0
+    },
+    {
+     "player": "Mario Soriano",
+     "position": "MED",
+     "position_id": 3,
+     "value": 55321494.0,
+     "points": 82.0,
+     "average": 6.833333333333333,
+     "status": "ok",
+     "clause": 55321494.0
+    },
+    {
+     "player": "Valverde",
+     "position": "MED",
+     "position_id": 3,
+     "value": 81341962.0,
+     "points": 68.0,
+     "average": 6.181818181818182,
+     "status": "ok",
+     "clause": 81341962.0
+    },
+    {
+     "player": "Fofana",
+     "position": "MED",
+     "position_id": 3,
+     "value": 39236655.0,
+     "points": 59.0,
+     "average": 6.555555555555555,
+     "status": "ok",
+     "clause": 50179638.0
+    },
+    {
+     "player": "Tchouaméni",
+     "position": "MED",
+     "position_id": 3,
+     "value": 36444280.0,
+     "points": 44.0,
+     "average": 5.5,
+     "status": "doubtful",
+     "clause": 36444280.0
+    },
+    {
+     "player": "Buchanan",
+     "position": "MED",
+     "position_id": 3,
+     "value": 5779200.0,
+     "points": 35.0,
+     "average": 3.5,
+     "status": "ok",
+     "clause": 5779200.0
+    },
+    {
+     "player": "Gorrotxa",
+     "position": "MED",
+     "position_id": 3,
+     "value": 1065942.0,
+     "points": 20.0,
+     "average": 2.0,
+     "status": "ok",
+     "clause": 1193220.0
+    },
+    {
+     "player": "Niño",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 4440671.0,
+     "points": 51.0,
+     "average": 6.375,
+     "status": "ok",
+     "clause": 12750896.0
+    },
+    {
+     "player": "Oskarsson",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 4753701.0,
+     "points": 44.0,
+     "average": 4.0,
+     "status": "ok",
+     "clause": 8000000.0
+    }
+   ]
+  },
+  {
+   "team_id": "37621293",
+   "team": "Lecumberri FC",
+   "position": 5,
+   "previous_position": 6,
+   "points": 568.0,
+   "week_points": 55.0,
+   "value": 237768887.0,
+   "players": 13,
+   "payments": 4,
+   "worst_week": 23.0,
+   "best_week": 64.0,
+   "relegation": false,
+   "promotion": false,
+   "squad": [
+    {
+     "player": "Leo Román",
+     "position": "POR",
+     "position_id": 1,
+     "value": 19784177.0,
+     "points": 66.0,
+     "average": 5.5,
+     "status": "ok",
+     "clause": 33000000.0
+    },
+    {
+     "player": "Marcos Llorente",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 55948235.0,
+     "points": 69.0,
+     "average": 5.75,
+     "status": "ok",
+     "clause": 61853240.0
+    },
+    {
+     "player": "Javi Rodríguez",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 7239292.0,
+     "points": 42.0,
+     "average": 3.5,
+     "status": "ok",
+     "clause": 11150000.0
+    },
+    {
+     "player": "Einar",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 2140432.0,
+     "points": 32.0,
+     "average": 2.6666666666666665,
+     "status": "ok",
+     "clause": 12074978.0
+    },
+    {
+     "player": "Álvaro García",
+     "position": "MED",
+     "position_id": 3,
+     "value": 9069130.0,
+     "points": 51.0,
+     "average": 4.636363636363637,
+     "status": "injured",
+     "clause": 27342651.0
+    },
+    {
+     "player": "Blanco",
+     "position": "MED",
+     "position_id": 3,
+     "value": 10935463.0,
+     "points": 48.0,
+     "average": 4.0,
+     "status": "ok",
+     "clause": 13000000.0
+    },
+    {
+     "player": "Dotor",
+     "position": "MED",
+     "position_id": 3,
+     "value": 3907416.0,
+     "points": 45.0,
+     "average": 4.090909090909091,
+     "status": "ok",
+     "clause": 4761755.0
+    },
+    {
+     "player": "Hjulmand",
+     "position": "MED",
+     "position_id": 3,
+     "value": 17286083.0,
+     "points": 45.0,
+     "average": 3.75,
+     "status": "ok",
+     "clause": 17286083.0
+    },
+    {
+     "player": "Larrubia",
+     "position": "MED",
+     "position_id": 3,
+     "value": 11139487.0,
+     "points": 41.0,
+     "average": 3.4166666666666665,
+     "status": "ok",
+     "clause": 11673994.0
+    },
+    {
+     "player": "Mangala",
+     "position": "MED",
+     "position_id": 3,
+     "value": 4301434.0,
+     "points": 36.0,
+     "average": 4.0,
+     "status": "ok",
+     "clause": 4583619.0
+    },
+    {
+     "player": "Y. Zabiri",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 56160506.0,
+     "points": 78.0,
+     "average": 6.5,
+     "status": "ok",
+     "clause": 56160506.0
+    },
+    {
+     "player": "Pepe",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 26591617.0,
+     "points": 52.0,
+     "average": 5.777777777777778,
+     "status": "ok",
+     "clause": 75069049.0
+    },
+    {
+     "player": "Bryan",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 13265615.0,
+     "points": 42.0,
+     "average": 4.666666666666667,
+     "status": "ok",
+     "clause": 13491241.0
+    }
+   ]
+  },
+  {
+   "team_id": "37621687",
+   "team": "Don cipotedelaMancha",
+   "position": 6,
+   "previous_position": 5,
+   "points": 550.0,
+   "week_points": 35.0,
+   "value": 107972671.0,
+   "players": 15,
+   "payments": 4,
+   "worst_week": 30.0,
+   "best_week": 60.0,
+   "relegation": true,
+   "promotion": false,
+   "squad": [
+    {
+     "player": "Agirrezabala",
+     "position": "POR",
+     "position_id": 1,
+     "value": 21130626.0,
+     "points": 69.0,
+     "average": 5.75,
+     "status": "ok",
+     "clause": 33000000.0
+    },
+    {
+     "player": "Bayindir",
+     "position": "POR",
+     "position_id": 1,
+     "value": 685997.0,
+     "points": 0.0,
+     "average": 0.0,
+     "status": "ok",
+     "clause": 1200000.0
+    },
+    {
+     "player": "Iván Villar",
+     "position": "POR",
+     "position_id": 1,
+     "value": 634771.0,
+     "points": 0.0,
+     "average": 0.0,
+     "status": "ok",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Sergio Gómez",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 9369175.0,
+     "points": 34.0,
+     "average": 2.8333333333333335,
+     "status": "ok",
+     "clause": 31451466.0
+    },
+    {
+     "player": "Ximo Navarro",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 2305953.0,
+     "points": 28.0,
+     "average": 2.3333333333333335,
+     "status": "ok",
+     "clause": 9738878.0
+    },
+    {
+     "player": "Gudelj",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 2802464.0,
+     "points": 19.0,
+     "average": 1.9,
+     "status": "suspended",
+     "clause": 9145261.0
+    },
+    {
+     "player": "Pablo",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 468964.0,
+     "points": 0.0,
+     "average": 0.0,
+     "status": "out_of_league",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Javi Hernández",
+     "position": "MED",
+     "position_id": 3,
+     "value": 25977867.0,
+     "points": 62.0,
+     "average": 5.636363636363637,
+     "status": "ok",
+     "clause": 26578748.0
+    },
+    {
+     "player": "Javi Guerra",
+     "position": "MED",
+     "position_id": 3,
+     "value": 20800810.0,
+     "points": 56.0,
+     "average": 4.666666666666667,
+     "status": "ok",
+     "clause": 41354960.0
+    },
+    {
+     "player": "Turrientes",
+     "position": "MED",
+     "position_id": 3,
+     "value": 2764009.0,
+     "points": 34.0,
+     "average": 2.8333333333333335,
+     "status": "ok",
+     "clause": 5135955.0
+    },
+    {
+     "player": "A. Rebbach",
+     "position": "MED",
+     "position_id": 3,
+     "value": 3328671.0,
+     "points": 32.0,
+     "average": 2.6666666666666665,
+     "status": "ok",
+     "clause": 10000000.0
+    },
+    {
+     "player": "Urko",
+     "position": "MED",
+     "position_id": 3,
+     "value": 1317941.0,
+     "points": 20.0,
+     "average": 2.0,
+     "status": "doubtful",
+     "clause": 8332935.0
+    },
+    {
+     "player": "Parrott",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 11044495.0,
+     "points": 34.0,
+     "average": 3.090909090909091,
+     "status": "ok",
+     "clause": 16552174.0
+    },
+    {
+     "player": "Pablo García",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 3939692.0,
+     "points": 33.0,
+     "average": 2.75,
+     "status": "ok",
+     "clause": 9000000.0
+    },
+    {
+     "player": "Joaquín",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 1401236.0,
+     "points": 29.0,
+     "average": 2.9,
+     "status": "ok",
+     "clause": 13783810.0
+    }
+   ]
+  },
+  {
+   "team_id": "37621655",
+   "team": "Los 11 de Riquelme",
+   "position": 7,
+   "previous_position": 7,
+   "points": 543.0,
+   "week_points": 63.0,
+   "value": 294851589.0,
+   "players": 15,
+   "payments": 6,
+   "worst_week": 23.0,
+   "best_week": 72.0,
+   "relegation": true,
+   "promotion": false,
+   "squad": [
+    {
+     "player": "Remiro",
+     "position": "POR",
+     "position_id": 1,
+     "value": 19888070.0,
+     "points": 59.0,
+     "average": 4.916666666666667,
+     "status": "ok",
+     "clause": 38416745.0
+    },
+    {
+     "player": "Yuri",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 28449532.0,
+     "points": 59.0,
+     "average": 5.363636363636363,
+     "status": "ok",
+     "clause": 28449532.0
+    },
+    {
+     "player": "Cabrera",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 16959605.0,
+     "points": 58.0,
+     "average": 6.444444444444445,
+     "status": "ok",
+     "clause": 16959605.0
+    },
+    {
+     "player": "Jon Martin",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 22354306.0,
+     "points": 49.0,
+     "average": 4.454545454545454,
+     "status": "ok",
+     "clause": 22465803.0
+    },
+    {
+     "player": "Pablo Ramón",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 1797600.0,
+     "points": 40.0,
+     "average": 3.3333333333333335,
+     "status": "ok",
+     "clause": 1973672.0
+    },
+    {
+     "player": "Boyomo",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 6165388.0,
+     "points": 23.0,
+     "average": 1.9166666666666667,
+     "status": "ok",
+     "clause": 7111255.0
+    },
+    {
+     "player": "Herrando",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 716946.0,
+     "points": 15.0,
+     "average": 5.0,
+     "status": "ok",
+     "clause": 1852922.0
+    },
+    {
+     "player": "Ilaix Moriba",
+     "position": "MED",
+     "position_id": 3,
+     "value": 28594240.0,
+     "points": 55.0,
+     "average": 4.583333333333333,
+     "status": "ok",
+     "clause": 32147137.0
+    },
+    {
+     "player": "Óscar Valentín",
+     "position": "MED",
+     "position_id": 3,
+     "value": 1255872.0,
+     "points": 33.0,
+     "average": 3.0,
+     "status": "injured",
+     "clause": 7715978.0
+    },
+    {
+     "player": "Johnny",
+     "position": "MED",
+     "position_id": 3,
+     "value": 3788710.0,
+     "points": 25.0,
+     "average": 2.7777777777777777,
+     "status": "ok",
+     "clause": 10995632.0
+    },
+    {
+     "player": "Iñigo",
+     "position": "MED",
+     "position_id": 3,
+     "value": 629005.0,
+     "points": 6.0,
+     "average": 0.5,
+     "status": "ok",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Félix Correia",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 11838412.0,
+     "points": 58.0,
+     "average": 6.444444444444445,
+     "status": "ok",
+     "clause": 11838412.0
+    },
+    {
+     "player": "Ez Abde",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 66228266.0,
+     "points": 53.0,
+     "average": 5.888888888888889,
+     "status": "ok",
+     "clause": 84195490.0
+    },
+    {
+     "player": "Julián Alvarez",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 70535785.0,
+     "points": 49.0,
+     "average": 6.125,
+     "status": "ok",
+     "clause": 70535785.0
+    },
+    {
+     "player": "De Frutos",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 15649852.0,
+     "points": 45.0,
+     "average": 4.5,
+     "status": "ok",
+     "clause": 24356854.0
+    }
+   ]
+  },
+  {
+   "team_id": "37621299",
+   "team": "Sergio Lopera_UVI",
+   "position": 8,
+   "previous_position": 8,
+   "points": 499.0,
+   "week_points": 45.0,
+   "value": 291601976.0,
+   "players": 17,
+   "payments": 9,
+   "worst_week": 11.0,
+   "best_week": 64.0,
+   "relegation": true,
+   "promotion": false,
+   "squad": [
+    {
+     "player": "Oblak",
+     "position": "POR",
+     "position_id": 1,
+     "value": 47738746.0,
+     "points": 94.0,
+     "average": 7.833333333333333,
+     "status": "ok",
+     "clause": 63091627.0
+    },
+    {
+     "player": "C. Rivero",
+     "position": "POR",
+     "position_id": 1,
+     "value": 622411.0,
+     "points": 0.0,
+     "average": 0.0,
+     "status": "ok",
+     "clause": 1700000.0
+    },
+    {
+     "player": "Cubarsí",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 60460349.0,
+     "points": 53.0,
+     "average": 4.416666666666667,
+     "status": "ok",
+     "clause": 74460024.0
+    },
+    {
+     "player": "Dela",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 11031700.0,
+     "points": 46.0,
+     "average": 4.181818181818182,
+     "status": "ok",
+     "clause": 17770599.0
+    },
+    {
+     "player": "Mandi",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 4520239.0,
+     "points": 40.0,
+     "average": 3.6363636363636362,
+     "status": "ok",
+     "clause": 8415081.0
+    },
+    {
+     "player": "Yeray",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 2608739.0,
+     "points": 28.0,
+     "average": 2.3333333333333335,
+     "status": "ok",
+     "clause": 5800000.0
+    },
+    {
+     "player": "Youssef",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 686225.0,
+     "points": 24.0,
+     "average": 2.0,
+     "status": "ok",
+     "clause": 1000000.0
+    },
+    {
+     "player": "Areso",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 1561371.0,
+     "points": 20.0,
+     "average": 1.6666666666666667,
+     "status": "ok",
+     "clause": 2902791.0
+    },
+    {
+     "player": "Kiko F.",
+     "position": "DEF",
+     "position_id": 2,
+     "value": 769092.0,
+     "points": 8.0,
+     "average": 1.0,
+     "status": "ok",
+     "clause": 2000000.0
+    },
+    {
+     "player": "Fermín",
+     "position": "MED",
+     "position_id": 3,
+     "value": 129502628.0,
+     "points": 111.0,
+     "average": 9.25,
+     "status": "ok",
+     "clause": 129502628.0
+    },
+    {
+     "player": "Moi Gómez",
+     "position": "MED",
+     "position_id": 3,
+     "value": 5649264.0,
+     "points": 54.0,
+     "average": 6.0,
+     "status": "ok",
+     "clause": 5649264.0
+    },
+    {
+     "player": "Isi",
+     "position": "MED",
+     "position_id": 3,
+     "value": 5115024.0,
+     "points": 13.0,
+     "average": 1.8571428571428572,
+     "status": "ok",
+     "clause": 6031868.0
+    },
+    {
+     "player": "Moscardo",
+     "position": "MED",
+     "position_id": 3,
+     "value": 973539.0,
+     "points": 8.0,
+     "average": 0.6666666666666666,
+     "status": "ok",
+     "clause": 5192803.0
+    },
+    {
+     "player": "Ferran Jutglà",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 12087243.0,
+     "points": 46.0,
+     "average": 3.8333333333333335,
+     "status": "ok",
+     "clause": 16200100.0
+    },
+    {
+     "player": "Enes Ünal",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 6622227.0,
+     "points": 37.0,
+     "average": 3.3636363636363638,
+     "status": "ok",
+     "clause": 18756205.0
+    },
+    {
+     "player": "Pablo Durán",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 961288.0,
+     "points": 37.0,
+     "average": 3.3636363636363638,
+     "status": "ok",
+     "clause": 5271554.0
+    },
+    {
+     "player": "Morante",
+     "position": "DEL",
+     "position_id": 4,
+     "value": 691891.0,
+     "points": 8.0,
+     "average": 1.3333333333333333,
+     "status": "ok",
+     "clause": 1000000.0
+    }
+   ]
+  }
+ ],
+ "lineup_weeks": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "evolution": {
+  "weeks": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "teams": [
+   {
+    "team_id": "37621151",
+    "team": "La Cerdineta",
+    "total": [
+     38.0,
+     106.0,
+     176.0,
+     245.0,
+     304.0,
+     356.0,
+     396.0,
+     436.0,
+     470.0,
+     522.0,
+     594.0,
+     665.0
+    ],
+    "week": [
+     38.0,
+     68.0,
+     70.0,
+     69.0,
+     59.0,
+     52.0,
+     40.0,
+     40.0,
+     34.0,
+     52.0,
+     72.0,
+     71.0
+    ],
+    "last_total": 665.0
+   },
+   {
+    "team_id": "37622426",
+    "team": "Real Cortijo F.C",
+    "total": [
+     57.0,
+     101.0,
+     160.0,
+     212.0,
+     272.0,
+     292.0,
+     335.0,
+     375.0,
+     455.0,
+     507.0,
+     583.0,
+     643.0
+    ],
+    "week": [
+     57.0,
+     44.0,
+     59.0,
+     52.0,
+     60.0,
+     20.0,
+     43.0,
+     40.0,
+     80.0,
+     52.0,
+     76.0,
+     60.0
+    ],
+    "last_total": 643.0
+   },
+   {
+    "team_id": "37621218",
+    "team": "Floperneta",
+    "total": [
+     34.0,
+     75.0,
+     121.0,
+     173.0,
+     210.0,
+     262.0,
+     303.0,
+     356.0,
+     417.0,
+     487.0,
+     522.0,
+     592.0
+    ],
+    "week": [
+     34.0,
+     41.0,
+     46.0,
+     52.0,
+     37.0,
+     52.0,
+     41.0,
+     53.0,
+     61.0,
+     70.0,
+     35.0,
+     70.0
+    ],
+    "last_total": 592.0
+   },
+   {
+    "team_id": "37621306",
+    "team": "Samuel Castellanos",
+    "total": [
+     25.0,
+     86.0,
+     125.0,
+     172.0,
+     223.0,
+     285.0,
+     345.0,
+     389.0,
+     428.0,
+     490.0,
+     540.0,
+     592.0
+    ],
+    "week": [
+     25.0,
+     61.0,
+     39.0,
+     47.0,
+     51.0,
+     62.0,
+     60.0,
+     44.0,
+     39.0,
+     62.0,
+     50.0,
+     52.0
+    ],
+    "last_total": 592.0
+   },
+   {
+    "team_id": "37621293",
+    "team": "Lecumberri FC",
+    "total": [
+     47.0,
+     104.0,
+     137.0,
+     195.0,
+     245.0,
+     268.0,
+     332.0,
+     363.0,
+     411.0,
+     464.0,
+     513.0,
+     568.0
+    ],
+    "week": [
+     47.0,
+     57.0,
+     33.0,
+     58.0,
+     50.0,
+     23.0,
+     64.0,
+     31.0,
+     48.0,
+     53.0,
+     49.0,
+     55.0
+    ],
+    "last_total": 568.0
+   },
+   {
+    "team_id": "37621687",
+    "team": "Don cipotedelaMancha",
+    "total": [
+     52.0,
+     98.0,
+     139.0,
+     169.0,
+     229.0,
+     280.0,
+     324.0,
+     369.0,
+     418.0,
+     455.0,
+     515.0,
+     550.0
+    ],
+    "week": [
+     52.0,
+     46.0,
+     41.0,
+     30.0,
+     60.0,
+     51.0,
+     44.0,
+     45.0,
+     49.0,
+     37.0,
+     60.0,
+     35.0
+    ],
+    "last_total": 550.0
+   },
+   {
+    "team_id": "37621655",
+    "team": "Los 11 de Riquelme",
+    "total": [
+     34.0,
+     57.0,
+     98.0,
+     143.0,
+     198.0,
+     246.0,
+     281.0,
+     318.0,
+     377.0,
+     408.0,
+     480.0,
+     543.0
+    ],
+    "week": [
+     34.0,
+     23.0,
+     41.0,
+     45.0,
+     55.0,
+     48.0,
+     35.0,
+     37.0,
+     59.0,
+     31.0,
+     72.0,
+     63.0
+    ],
+    "last_total": 543.0
+   },
+   {
+    "team_id": "37621299",
+    "team": "Sergio Lopera_UVI",
+    "total": [
+     64.0,
+     103.0,
+     153.0,
+     192.0,
+     203.0,
+     249.0,
+     289.0,
+     339.0,
+     382.0,
+     423.0,
+     454.0,
+     499.0
+    ],
+    "week": [
+     64.0,
+     39.0,
+     50.0,
+     39.0,
+     11.0,
+     46.0,
+     40.0,
+     50.0,
+     43.0,
+     41.0,
+     31.0,
+     45.0
+    ],
+    "last_total": 499.0
+   }
+  ],
+  "payers": {
+   "1": [
+    "37621218",
+    "37621306",
+    "37621655"
+   ],
+   "2": [
+    "37621218",
+    "37621299",
+    "37621655"
+   ],
+   "3": [
+    "37621293",
+    "37621306",
+    "37621655",
+    "37621687"
+   ],
+   "4": [
+    "37621299",
+    "37621655",
+    "37621687"
+   ],
+   "5": [
+    "37621218",
+    "37621293",
+    "37621299"
+   ],
+   "6": [
+    "37621293",
+    "37621299",
+    "37622426"
+   ],
+   "7": [
+    "37621151",
+    "37621299",
+    "37621655"
+   ],
+   "8": [
+    "37621293",
+    "37621655",
+    "37621151",
+    "37622426"
+   ],
+   "9": [
+    "37621151",
+    "37621299",
+    "37621306"
+   ],
+   "10": [
+    "37621299",
+    "37621655",
+    "37621687"
+   ],
+   "11": [
+    "37621218",
+    "37621293",
+    "37621299"
+   ],
+   "12": [
+    "37621299",
+    "37621306",
+    "37621687"
+   ]
+  }
+ },
+ "market": {
+  "system": [
+   {
+    "source": "system",
+    "player": "Kang-In Lee",
+    "position": "MED",
+    "value": 61793996.0,
+    "price": 61793996.0,
+    "bids": 1,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -7750400.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 68524064,
+      "delta": -1020332
+     },
+     {
+      "date": "2026-11-09",
+      "value": 67539798,
+      "delta": -984266
+     },
+     {
+      "date": "2026-11-10",
+      "value": 66395890,
+      "delta": -1143908
+     },
+     {
+      "date": "2026-11-11",
+      "value": 65133809,
+      "delta": -1262081
+     },
+     {
+      "date": "2026-11-12",
+      "value": 63956163,
+      "delta": -1177646
+     },
+     {
+      "date": "2026-11-13",
+      "value": 62842150,
+      "delta": -1114013
+     },
+     {
+      "date": "2026-11-14",
+      "value": 61793996,
+      "delta": -1048154
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 4,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 8,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 4,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Koski",
+    "position": "DEF",
+    "value": 38194476.0,
+    "price": 38194476.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -3479299.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 41170946,
+      "delta": -502829
+     },
+     {
+      "date": "2026-11-09",
+      "value": 40751439,
+      "delta": -419507
+     },
+     {
+      "date": "2026-11-10",
+      "value": 40274082,
+      "delta": -477357
+     },
+     {
+      "date": "2026-11-11",
+      "value": 39765606,
+      "delta": -508476
+     },
+     {
+      "date": "2026-11-12",
+      "value": 39206502,
+      "delta": -559104
+     },
+     {
+      "date": "2026-11-13",
+      "value": 38706594,
+      "delta": -499908
+     },
+     {
+      "date": "2026-11-14",
+      "value": 38194476,
+      "delta": -512118
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": -4,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 3,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Roberto",
+    "position": "DEL",
+    "value": 37414434.0,
+    "price": 37414434.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -5324057.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 42013413,
+      "delta": -725078
+     },
+     {
+      "date": "2026-11-09",
+      "value": 41199247,
+      "delta": -814166
+     },
+     {
+      "date": "2026-11-10",
+      "value": 40367202,
+      "delta": -832045
+     },
+     {
+      "date": "2026-11-11",
+      "value": 39541579,
+      "delta": -825623
+     },
+     {
+      "date": "2026-11-12",
+      "value": 38808427,
+      "delta": -733152
+     },
+     {
+      "date": "2026-11-13",
+      "value": 38082694,
+      "delta": -725733
+     },
+     {
+      "date": "2026-11-14",
+      "value": 37414434,
+      "delta": -668260
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 2,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 5,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Kubo",
+    "position": "MED",
+    "value": 9513509.0,
+    "price": 9513509.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -859509.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 10187592,
+      "delta": -185426
+     },
+     {
+      "date": "2026-11-09",
+      "value": 10025201,
+      "delta": -162391
+     },
+     {
+      "date": "2026-11-10",
+      "value": 9923651,
+      "delta": -101550
+     },
+     {
+      "date": "2026-11-11",
+      "value": 9810468,
+      "delta": -113183
+     },
+     {
+      "date": "2026-11-12",
+      "value": 9701347,
+      "delta": -109121
+     },
+     {
+      "date": "2026-11-13",
+      "value": 9604536,
+      "delta": -96811
+     },
+     {
+      "date": "2026-11-14",
+      "value": 9513509,
+      "delta": -91027
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 6,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 2,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 13,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "I. Romero",
+    "position": "DEL",
+    "value": 7030839.0,
+    "price": 7030839.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -763041.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 7709798,
+      "delta": -84082
+     },
+     {
+      "date": "2026-11-09",
+      "value": 7607058,
+      "delta": -102740
+     },
+     {
+      "date": "2026-11-10",
+      "value": 7479247,
+      "delta": -127811
+     },
+     {
+      "date": "2026-11-11",
+      "value": 7355437,
+      "delta": -123810
+     },
+     {
+      "date": "2026-11-12",
+      "value": 7240902,
+      "delta": -114535
+     },
+     {
+      "date": "2026-11-13",
+      "value": 7138082,
+      "delta": -102820
+     },
+     {
+      "date": "2026-11-14",
+      "value": 7030839,
+      "delta": -107243
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 2,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 9,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Olasagasti",
+    "position": "MED",
+    "value": 5986990.0,
+    "price": 5986990.0,
+    "bids": 1,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": 110611.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 5823031,
+      "delta": -53348
+     },
+     {
+      "date": "2026-11-09",
+      "value": 5761235,
+      "delta": -61796
+     },
+     {
+      "date": "2026-11-10",
+      "value": 5786716,
+      "delta": 25481
+     },
+     {
+      "date": "2026-11-11",
+      "value": 5814466,
+      "delta": 27750
+     },
+     {
+      "date": "2026-11-12",
+      "value": 5877082,
+      "delta": 62616
+     },
+     {
+      "date": "2026-11-13",
+      "value": 5929450,
+      "delta": 52368
+     },
+     {
+      "date": "2026-11-14",
+      "value": 5986990,
+      "delta": 57540
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 8,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 5,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Uche",
+    "position": "DEL",
+    "value": 1501479.0,
+    "price": 1501479.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -257349.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 1717787,
+      "delta": -41041
+     },
+     {
+      "date": "2026-11-09",
+      "value": 1677400,
+      "delta": -40387
+     },
+     {
+      "date": "2026-11-10",
+      "value": 1636857,
+      "delta": -40543
+     },
+     {
+      "date": "2026-11-11",
+      "value": 1598037,
+      "delta": -38820
+     },
+     {
+      "date": "2026-11-12",
+      "value": 1561172,
+      "delta": -36865
+     },
+     {
+      "date": "2026-11-13",
+      "value": 1526251,
+      "delta": -34921
+     },
+     {
+      "date": "2026-11-14",
+      "value": 1501479,
+      "delta": -24772
+     }
+    ],
+    "last_points": []
+   },
+   {
+    "source": "system",
+    "player": "M. Loureiro",
+    "position": "DEF",
+    "value": 1326761.0,
+    "price": 1326761.0,
+    "bids": 1,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": 260980.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 1075396,
+      "delta": 9615
+     },
+     {
+      "date": "2026-11-09",
+      "value": 1118888,
+      "delta": 43492
+     },
+     {
+      "date": "2026-11-10",
+      "value": 1170087,
+      "delta": 51199
+     },
+     {
+      "date": "2026-11-11",
+      "value": 1214283,
+      "delta": 44196
+     },
+     {
+      "date": "2026-11-12",
+      "value": 1252223,
+      "delta": 37940
+     },
+     {
+      "date": "2026-11-13",
+      "value": 1289694,
+      "delta": 37471
+     },
+     {
+      "date": "2026-11-14",
+      "value": 1326761,
+      "delta": 37067
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 9,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 4,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Vizcay",
+    "position": "DEL",
+    "value": 986575.0,
+    "price": 986575.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -97425.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 1069952,
+      "delta": -14048
+     },
+     {
+      "date": "2026-11-09",
+      "value": 1055478,
+      "delta": -14474
+     },
+     {
+      "date": "2026-11-10",
+      "value": 1039812,
+      "delta": -15666
+     },
+     {
+      "date": "2026-11-11",
+      "value": 1024874,
+      "delta": -14938
+     },
+     {
+      "date": "2026-11-12",
+      "value": 1010936,
+      "delta": -13938
+     },
+     {
+      "date": "2026-11-13",
+      "value": 998024,
+      "delta": -12912
+     },
+     {
+      "date": "2026-11-14",
+      "value": 986575,
+      "delta": -11449
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Simeone",
+    "position": "ENT",
+    "value": 772571.0,
+    "price": 772571.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": -26643.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 796557,
+      "delta": -2657
+     },
+     {
+      "date": "2026-11-09",
+      "value": 793019,
+      "delta": -3538
+     },
+     {
+      "date": "2026-11-10",
+      "value": 787851,
+      "delta": -5168
+     },
+     {
+      "date": "2026-11-11",
+      "value": 782991,
+      "delta": -4860
+     },
+     {
+      "date": "2026-11-12",
+      "value": 778728,
+      "delta": -4263
+     },
+     {
+      "date": "2026-11-13",
+      "value": 775104,
+      "delta": -3624
+     },
+     {
+      "date": "2026-11-14",
+      "value": 772571,
+      "delta": -2533
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 5,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Martín Anselmi",
+    "position": "ENT",
+    "value": 650822.0,
+    "price": 650822.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": 13629.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 641017,
+      "delta": 3824
+     },
+     {
+      "date": "2026-11-09",
+      "value": 643700,
+      "delta": 2683
+     },
+     {
+      "date": "2026-11-10",
+      "value": 644505,
+      "delta": 805
+     },
+     {
+      "date": "2026-11-11",
+      "value": 645379,
+      "delta": 874
+     },
+     {
+      "date": "2026-11-12",
+      "value": 646621,
+      "delta": 1242
+     },
+     {
+      "date": "2026-11-13",
+      "value": 648282,
+      "delta": 1661
+     },
+     {
+      "date": "2026-11-14",
+      "value": 650822,
+      "delta": 2540
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 2,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 2,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Risco",
+    "position": "MED",
+    "value": 627784.0,
+    "price": 627784.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": 21249.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 611585,
+      "delta": 5050
+     },
+     {
+      "date": "2026-11-09",
+      "value": 615446,
+      "delta": 3861
+     },
+     {
+      "date": "2026-11-10",
+      "value": 617381,
+      "delta": 1935
+     },
+     {
+      "date": "2026-11-11",
+      "value": 619340,
+      "delta": 1959
+     },
+     {
+      "date": "2026-11-12",
+      "value": 621623,
+      "delta": 2283
+     },
+     {
+      "date": "2026-11-13",
+      "value": 624284,
+      "delta": 2661
+     },
+     {
+      "date": "2026-11-14",
+      "value": 627784,
+      "delta": 3500
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "system",
+    "player": "Mauro",
+    "position": "MED",
+    "value": 625901.0,
+    "price": 625901.0,
+    "bids": 0,
+    "offers": null,
+    "clause": null,
+    "seller": null,
+    "closes": "2026-11-15T08:55:00+01:00",
+    "value_7d": 21873.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 609179,
+      "delta": 5151
+     },
+     {
+      "date": "2026-11-09",
+      "value": 613136,
+      "delta": 3957
+     },
+     {
+      "date": "2026-11-10",
+      "value": 615164,
+      "delta": 2028
+     },
+     {
+      "date": "2026-11-11",
+      "value": 617212,
+      "delta": 2048
+     },
+     {
+      "date": "2026-11-12",
+      "value": 619580,
+      "delta": 2368
+     },
+     {
+      "date": "2026-11-13",
+      "value": 622322,
+      "delta": 2742
+     },
+     {
+      "date": "2026-11-14",
+      "value": 625901,
+      "delta": 3579
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 1,
+      "ideal": false
+     }
+    ]
+   }
+  ],
+  "managers": [
+   {
+    "source": "manager",
+    "player": "Ez Abde",
+    "position": "DEL",
+    "value": 66228266.0,
+    "price": 66228266.0,
+    "bids": null,
+    "offers": 0,
+    "clause": 84195490.0,
+    "seller": "Los 11 de Riquelme",
+    "closes": "2026-11-17T16:55:21+01:00",
+    "value_7d": -7347878.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 73002729,
+      "delta": -573415
+     },
+     {
+      "date": "2026-11-09",
+      "value": 72056211,
+      "delta": -946518
+     },
+     {
+      "date": "2026-11-10",
+      "value": 70812908,
+      "delta": -1243303
+     },
+     {
+      "date": "2026-11-11",
+      "value": 69512452,
+      "delta": -1300456
+     },
+     {
+      "date": "2026-11-12",
+      "value": 68296506,
+      "delta": -1215946
+     },
+     {
+      "date": "2026-11-13",
+      "value": 67209880,
+      "delta": -1086626
+     },
+     {
+      "date": "2026-11-14",
+      "value": 66228266,
+      "delta": -981614
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 4,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 8,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Camello",
+    "position": "DEL",
+    "value": 58849201.0,
+    "price": 58849201.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 60000010.0,
+    "seller": "Real Cortijo F.C",
+    "closes": "2026-11-17T07:13:56+01:00",
+    "value_7d": 5996840.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 53472168,
+      "delta": 619807
+     },
+     {
+      "date": "2026-11-09",
+      "value": 54069418,
+      "delta": 597250
+     },
+     {
+      "date": "2026-11-10",
+      "value": 54813114,
+      "delta": 743696
+     },
+     {
+      "date": "2026-11-11",
+      "value": 55693069,
+      "delta": 879955
+     },
+     {
+      "date": "2026-11-12",
+      "value": 56662963,
+      "delta": 969894
+     },
+     {
+      "date": "2026-11-13",
+      "value": 57695464,
+      "delta": 1032501
+     },
+     {
+      "date": "2026-11-14",
+      "value": 58849201,
+      "delta": 1153737
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 6,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 10,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 2,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 3,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Edu Expósito",
+    "position": "MED",
+    "value": 48201329.0,
+    "price": 48201329.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 48201329.0,
+    "seller": "Real Cortijo F.C",
+    "closes": "2026-11-17T07:13:45+01:00",
+    "value_7d": 6065339.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 42788041,
+      "delta": 652051
+     },
+     {
+      "date": "2026-11-09",
+      "value": 43643507,
+      "delta": 855466
+     },
+     {
+      "date": "2026-11-10",
+      "value": 44584303,
+      "delta": 940796
+     },
+     {
+      "date": "2026-11-11",
+      "value": 45608214,
+      "delta": 1023911
+     },
+     {
+      "date": "2026-11-12",
+      "value": 46471309,
+      "delta": 863095
+     },
+     {
+      "date": "2026-11-13",
+      "value": 47423150,
+      "delta": 951841
+     },
+     {
+      "date": "2026-11-14",
+      "value": 48201329,
+      "delta": 778179
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 8,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 8,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 11,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 6,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 6,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Sucic",
+    "position": "MED",
+    "value": 41518623.0,
+    "price": 41518623.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 41518623.0,
+    "seller": "Real Cortijo F.C",
+    "closes": "2026-11-17T07:13:38+01:00",
+    "value_7d": 7206982.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 35114019,
+      "delta": 802378
+     },
+     {
+      "date": "2026-11-09",
+      "value": 35876103,
+      "delta": 762084
+     },
+     {
+      "date": "2026-11-10",
+      "value": 37023086,
+      "delta": 1146983
+     },
+     {
+      "date": "2026-11-11",
+      "value": 38226114,
+      "delta": 1203028
+     },
+     {
+      "date": "2026-11-12",
+      "value": 39340330,
+      "delta": 1114216
+     },
+     {
+      "date": "2026-11-13",
+      "value": 40352839,
+      "delta": 1012509
+     },
+     {
+      "date": "2026-11-14",
+      "value": 41518623,
+      "delta": 1165784
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 9,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 8,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 6,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 3,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Fofana",
+    "position": "MED",
+    "value": 39236655.0,
+    "price": 39753330.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 50179638.0,
+    "seller": "Floperneta",
+    "closes": "2026-11-16T08:58:57+01:00",
+    "value_7d": -1476862.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 40876524,
+      "delta": 163007
+     },
+     {
+      "date": "2026-11-09",
+      "value": 40946881,
+      "delta": 70357
+     },
+     {
+      "date": "2026-11-10",
+      "value": 40842402,
+      "delta": -104479
+     },
+     {
+      "date": "2026-11-11",
+      "value": 40562596,
+      "delta": -279806
+     },
+     {
+      "date": "2026-11-12",
+      "value": 40172072,
+      "delta": -390524
+     },
+     {
+      "date": "2026-11-13",
+      "value": 39753330,
+      "delta": -418742
+     },
+     {
+      "date": "2026-11-14",
+      "value": 39236655,
+      "delta": -516675
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 13,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 10,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Marc Roca",
+    "position": "MED",
+    "value": 36348783.0,
+    "price": 34152444.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 38152444.0,
+    "seller": "Real Cortijo F.C",
+    "closes": "2026-11-15T09:00:16+01:00",
+    "value_7d": 7213623.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 30034967,
+      "delta": 899807
+     },
+     {
+      "date": "2026-11-09",
+      "value": 30831447,
+      "delta": 796480
+     },
+     {
+      "date": "2026-11-10",
+      "value": 31884421,
+      "delta": 1052974
+     },
+     {
+      "date": "2026-11-11",
+      "value": 32949449,
+      "delta": 1065028
+     },
+     {
+      "date": "2026-11-12",
+      "value": 34152444,
+      "delta": 1202995
+     },
+     {
+      "date": "2026-11-13",
+      "value": 35244773,
+      "delta": 1092329
+     },
+     {
+      "date": "2026-11-14",
+      "value": 36348783,
+      "delta": 1104010
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 8,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Bernardo Silva",
+    "position": "MED",
+    "value": 27508318.0,
+    "price": 27508318.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 27508318.0,
+    "seller": "Real Cortijo F.C",
+    "closes": "2026-11-17T07:13:48+01:00",
+    "value_7d": 4768563.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 23090649,
+      "delta": 350894
+     },
+     {
+      "date": "2026-11-09",
+      "value": 23661395,
+      "delta": 570746
+     },
+     {
+      "date": "2026-11-10",
+      "value": 24402187,
+      "delta": 740792
+     },
+     {
+      "date": "2026-11-11",
+      "value": 25182422,
+      "delta": 780235
+     },
+     {
+      "date": "2026-11-12",
+      "value": 25941961,
+      "delta": 759539
+     },
+     {
+      "date": "2026-11-13",
+      "value": 26726706,
+      "delta": 784745
+     },
+     {
+      "date": "2026-11-14",
+      "value": 27508318,
+      "delta": 781612
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 6,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 2,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Ratiu",
+    "position": "DEF",
+    "value": 14425185.0,
+    "price": 14425185.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 16125000.0,
+    "seller": "Real Cortijo F.C",
+    "closes": "2026-11-17T07:13:31+01:00",
+    "value_7d": 2060190.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 12649494,
+      "delta": 284499
+     },
+     {
+      "date": "2026-11-09",
+      "value": 12911555,
+      "delta": 262061
+     },
+     {
+      "date": "2026-11-10",
+      "value": 13214912,
+      "delta": 303357
+     },
+     {
+      "date": "2026-11-11",
+      "value": 13535794,
+      "delta": 320882
+     },
+     {
+      "date": "2026-11-12",
+      "value": 13822445,
+      "delta": 286651
+     },
+     {
+      "date": "2026-11-13",
+      "value": 14155677,
+      "delta": 333232
+     },
+     {
+      "date": "2026-11-14",
+      "value": 14425185,
+      "delta": 269508
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 5,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 14,
+      "ideal": true
+     },
+     {
+      "week": 7,
+      "points": 4,
+      "ideal": false
+     },
+     {
+      "week": 6,
+      "points": 3,
+      "ideal": false
+     },
+     {
+      "week": 5,
+      "points": -2,
+      "ideal": false
+     }
+    ]
+   },
+   {
+    "source": "manager",
+    "player": "Johaneko",
+    "position": "DEF",
+    "value": 747925.0,
+    "price": 751985.0,
+    "bids": null,
+    "offers": 1,
+    "clause": 1000000.0,
+    "seller": "Samuel Castellanos",
+    "closes": "2026-11-15T09:11:53+01:00",
+    "value_7d": -18490.0,
+    "value_series": [
+     {
+      "date": "2026-11-08",
+      "value": 765070,
+      "delta": -1345
+     },
+     {
+      "date": "2026-11-09",
+      "value": 762791,
+      "delta": -2279
+     },
+     {
+      "date": "2026-11-10",
+      "value": 758832,
+      "delta": -3959
+     },
+     {
+      "date": "2026-11-11",
+      "value": 755133,
+      "delta": -3699
+     },
+     {
+      "date": "2026-11-12",
+      "value": 751985,
+      "delta": -3148
+     },
+     {
+      "date": "2026-11-13",
+      "value": 749431,
+      "delta": -2554
+     },
+     {
+      "date": "2026-11-14",
+      "value": 747925,
+      "delta": -1506
+     }
+    ],
+    "last_points": [
+     {
+      "week": 12,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 11,
+      "points": 1,
+      "ideal": false
+     },
+     {
+      "week": 10,
+      "points": 0,
+      "ideal": false
+     },
+     {
+      "week": 9,
+      "points": 7,
+      "ideal": false
+     },
+     {
+      "week": 8,
+      "points": 0,
+      "ideal": false
+     }
+    ]
+   }
+  ]
+ },
+ "activity": [
+  {
+   "id": "118984221",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Boyomo",
+   "amount": 7111255.0,
+   "created_at": "2026-11-14T16:54:38+01:00",
+   "date": "14/11 16:54",
+   "user1": "Los 11 de Riquelme",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "118983757",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Yuri",
+   "amount": 28449532.0,
+   "created_at": "2026-11-14T16:53:23+01:00",
+   "date": "14/11 16:53",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Samuel Castellanos"
+  },
+  {
+   "id": "118836325",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Bryan",
+   "amount": 13491241.0,
+   "created_at": "2026-11-14T08:55:14+01:00",
+   "date": "14/11 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "118836324",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Bil Nsongo",
+   "amount": 14870000.0,
+   "created_at": "2026-11-14T08:55:14+01:00",
+   "date": "14/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "118836323",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Blanco",
+   "amount": 13000000.0,
+   "created_at": "2026-11-14T08:55:14+01:00",
+   "date": "14/11 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "118832159",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Mantilla",
+   "amount": 710055.0,
+   "created_at": "2026-11-14T08:17:37+01:00",
+   "date": "14/11 08:17",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "118471694",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Unai Lopez",
+   "amount": 34159658.0,
+   "created_at": "2026-11-13T11:39:52+01:00",
+   "date": "13/11 11:39",
+   "user1": "Samuel Castellanos",
+   "user2": "Los 11 de Riquelme"
+  },
+  {
+   "id": "118442503",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Marc Pubill",
+   "amount": 56516530.0,
+   "created_at": "2026-11-13T09:25:02+01:00",
+   "date": "13/11 09:25",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "118438203",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Juan Iglesias",
+   "amount": 22472337.0,
+   "created_at": "2026-11-13T08:55:28+01:00",
+   "date": "13/11 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "118438202",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Iker Luque",
+   "amount": 1125252.0,
+   "created_at": "2026-11-13T08:55:28+01:00",
+   "date": "13/11 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "117970748",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Javi Hernández",
+   "amount": 26578748.0,
+   "created_at": "2026-11-12T10:30:18+01:00",
+   "date": "12/11 10:30",
+   "user1": "Don cipotedelaMancha",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "117955635",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Emil Audero",
+   "amount": 4850000.0,
+   "created_at": "2026-11-12T09:20:54+01:00",
+   "date": "12/11 09:20",
+   "user1": "Samuel Castellanos",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "117955260",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Marc Pubill",
+   "amount": 52279699.0,
+   "created_at": "2026-11-12T09:18:52+01:00",
+   "date": "12/11 09:18",
+   "user1": "Samuel Castellanos",
+   "user2": "Don cipotedelaMancha"
+  },
+  {
+   "id": "117953706",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Balliu",
+   "amount": 619687.0,
+   "created_at": "2026-11-12T09:10:32+01:00",
+   "date": "12/11 09:10",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "117952404",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Mikautadze",
+   "amount": 49253947.0,
+   "created_at": "2026-11-12T09:02:55+01:00",
+   "date": "12/11 09:02",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "117951444",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Marc Roca",
+   "amount": 38152444.0,
+   "created_at": "2026-11-12T08:57:32+01:00",
+   "date": "12/11 08:57",
+   "user1": "Real Cortijo F.C",
+   "user2": "Samuel Castellanos"
+  },
+  {
+   "id": "117951225",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "R. Terrats",
+   "amount": 18361279.0,
+   "created_at": "2026-11-12T08:56:07+01:00",
+   "date": "12/11 08:56",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "117951122",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Ratiu",
+   "amount": 16125000.0,
+   "created_at": "2026-11-12T08:55:20+01:00",
+   "date": "12/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "117951121",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Bartra",
+   "amount": 32258000.0,
+   "created_at": "2026-11-12T08:55:20+01:00",
+   "date": "12/11 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "117951119",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Cancelo",
+   "amount": 40252964.0,
+   "created_at": "2026-11-12T08:55:20+01:00",
+   "date": "12/11 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "117889874",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "I. Romero",
+   "amount": 7866806.0,
+   "created_at": "2026-11-12T00:26:50+01:00",
+   "date": "12/11 00:26",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "117444134",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Álex Baena",
+   "amount": 98745001.0,
+   "created_at": "2026-11-11T11:34:04+01:00",
+   "date": "11/11 11:34",
+   "user1": "Don cipotedelaMancha",
+   "user2": null
+  },
+  {
+   "id": "117411102",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Diomande",
+   "amount": 136048502.0,
+   "created_at": "2026-11-11T09:42:23+01:00",
+   "date": "11/11 09:42",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "117410257",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Riquelme",
+   "amount": 12541180.0,
+   "created_at": "2026-11-11T09:38:56+01:00",
+   "date": "11/11 09:38",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "117406059",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "A. Castrín",
+   "amount": 12083265.0,
+   "created_at": "2026-11-11T09:19:18+01:00",
+   "date": "11/11 09:19",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "117406015",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Lemar",
+   "amount": 7307253.0,
+   "created_at": "2026-11-11T09:19:10+01:00",
+   "date": "11/11 09:19",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "117401463",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Boselli",
+   "amount": 697615.0,
+   "created_at": "2026-11-11T08:55:13+01:00",
+   "date": "11/11 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "117394467",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Germán V.",
+   "amount": 24674724.0,
+   "created_at": "2026-11-11T08:14:54+01:00",
+   "date": "11/11 08:14",
+   "user1": "La Cerdineta",
+   "user2": "Sergio Lopera_UVI"
+  },
+  {
+   "id": "117392774",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Guedes",
+   "amount": 30532968.0,
+   "created_at": "2026-11-11T08:04:40+01:00",
+   "date": "11/11 08:04",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "117392490",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Konaté",
+   "amount": 51734981.0,
+   "created_at": "2026-11-11T08:02:46+01:00",
+   "date": "11/11 08:02",
+   "user1": "Floperneta",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "116814645",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Agoumé",
+   "amount": 21701416.0,
+   "created_at": "2026-11-10T10:26:57+01:00",
+   "date": "10/11 10:26",
+   "user1": "Samuel Castellanos",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "116814613",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Suazo",
+   "amount": 11306590.0,
+   "created_at": "2026-11-10T10:26:49+01:00",
+   "date": "10/11 10:26",
+   "user1": "Samuel Castellanos",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "116802804",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "V. Chust",
+   "amount": 8217751.0,
+   "created_at": "2026-11-10T09:49:04+01:00",
+   "date": "10/11 09:49",
+   "user1": "Real Cortijo F.C",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "116791412",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Revivo",
+   "amount": 12635071.0,
+   "created_at": "2026-11-10T09:03:01+01:00",
+   "date": "10/11 09:03",
+   "user1": "Samuel Castellanos",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "116791345",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Freeman",
+   "amount": 15330658.0,
+   "created_at": "2026-11-10T09:02:38+01:00",
+   "date": "10/11 09:02",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "116791323",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Yoel Lago",
+   "amount": 31159991.0,
+   "created_at": "2026-11-10T09:02:31+01:00",
+   "date": "10/11 09:02",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "116789719",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Camello",
+   "amount": 60000010.0,
+   "created_at": "2026-11-10T08:55:21+01:00",
+   "date": "10/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "116789718",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Lejeune",
+   "amount": 14563666.0,
+   "created_at": "2026-11-10T08:55:21+01:00",
+   "date": "10/11 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "116238567",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "El Hilali",
+   "amount": 23199931.0,
+   "created_at": "2026-11-09T14:24:19+01:00",
+   "date": "09/11 14:24",
+   "user1": "Floperneta",
+   "user2": "Los 11 de Riquelme"
+  },
+  {
+   "id": "116120446",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "I. Akhomach",
+   "amount": 11932392.0,
+   "created_at": "2026-11-09T10:06:42+01:00",
+   "date": "09/11 10:06",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "116108641",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Febas",
+   "amount": 5994457.0,
+   "created_at": "2026-11-09T09:26:39+01:00",
+   "date": "09/11 09:26",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "116104653",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Bryan",
+   "amount": 15828308.0,
+   "created_at": "2026-11-09T09:11:45+01:00",
+   "date": "09/11 09:11",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "116104546",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Pedrosa",
+   "amount": 3286409.0,
+   "created_at": "2026-11-09T09:11:23+01:00",
+   "date": "09/11 09:11",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "116103815",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Iñaki Williams",
+   "amount": 31810703.0,
+   "created_at": "2026-11-09T09:08:33+01:00",
+   "date": "09/11 09:08",
+   "user1": "Samuel Castellanos",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "116103612",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Fer Niño",
+   "amount": 44553147.0,
+   "created_at": "2026-11-09T09:07:39+01:00",
+   "date": "09/11 09:07",
+   "user1": "Sergio Lopera_UVI",
+   "user2": null
+  },
+  {
+   "id": "116101057",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Sucic",
+   "amount": 35876103.0,
+   "created_at": "2026-11-09T08:56:36+01:00",
+   "date": "09/11 08:56",
+   "user1": "Real Cortijo F.C",
+   "user2": "Samuel Castellanos"
+  },
+  {
+   "id": "116100728",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Fermín",
+   "amount": 123850455.0,
+   "created_at": "2026-11-09T08:55:11+01:00",
+   "date": "09/11 08:55",
+   "user1": "Sergio Lopera_UVI",
+   "user2": null
+  },
+  {
+   "id": "116100727",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Larrubia",
+   "amount": 11673994.0,
+   "created_at": "2026-11-09T08:55:11+01:00",
+   "date": "09/11 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "113406744",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Hancko",
+   "amount": 64014525.0,
+   "created_at": "2026-11-08T22:59:24+01:00",
+   "date": "08/11 22:59",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "113303638",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Oskarsson",
+   "amount": 8000000.0,
+   "created_at": "2026-11-08T20:59:04+01:00",
+   "date": "08/11 20:59",
+   "user1": "Floperneta",
+   "user2": "Sergio Lopera_UVI"
+  },
+  {
+   "id": "113157920",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Cepeda",
+   "amount": 3714562.0,
+   "created_at": "2026-11-08T18:04:58+01:00",
+   "date": "08/11 18:04",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "112928606",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Kounde",
+   "amount": 14565873.0,
+   "created_at": "2026-11-08T09:54:58+01:00",
+   "date": "08/11 09:54",
+   "user1": "Sergio Lopera_UVI",
+   "user2": null
+  },
+  {
+   "id": "112918466",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Sergio Herrera",
+   "amount": 11256957.0,
+   "created_at": "2026-11-08T08:55:14+01:00",
+   "date": "08/11 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "112918465",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Peio Canales",
+   "amount": 4153442.0,
+   "created_at": "2026-11-08T08:55:14+01:00",
+   "date": "08/11 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "112540451",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Recio",
+   "amount": 3080840.0,
+   "created_at": "2026-11-07T13:57:35+01:00",
+   "date": "07/11 13:57",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "112471260",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Kike Salas",
+   "amount": 29519614.0,
+   "created_at": "2026-11-07T09:23:03+01:00",
+   "date": "07/11 09:23",
+   "user1": "Samuel Castellanos",
+   "user2": "Don cipotedelaMancha"
+  },
+  {
+   "id": "112467407",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Edu Expósito",
+   "amount": 42135990.0,
+   "created_at": "2026-11-07T08:55:11+01:00",
+   "date": "07/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": "Samuel Castellanos"
+  },
+  {
+   "id": "111965546",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Valentín Gómez",
+   "amount": 7171855.0,
+   "created_at": "2026-11-06T08:58:08+01:00",
+   "date": "06/11 08:58",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "111965258",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Hugo Alvarez",
+   "amount": 6213034.0,
+   "created_at": "2026-11-06T08:56:01+01:00",
+   "date": "06/11 08:56",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "111965193",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Mangala",
+   "amount": 4583619.0,
+   "created_at": "2026-11-06T08:55:20+01:00",
+   "date": "06/11 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "111965192",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Mikautadze",
+   "amount": 50000001.0,
+   "created_at": "2026-11-06T08:55:20+01:00",
+   "date": "06/11 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "111965191",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Abel Bretones",
+   "amount": 4803076.0,
+   "created_at": "2026-11-06T08:55:20+01:00",
+   "date": "06/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "111965190",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Bernardo Silva",
+   "amount": 25725000.0,
+   "created_at": "2026-11-06T08:55:20+01:00",
+   "date": "06/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "111410182",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Belocian",
+   "amount": 1459842.0,
+   "created_at": "2026-11-05T14:14:11+01:00",
+   "date": "05/11 14:14",
+   "user1": "Real Cortijo F.C",
+   "user2": "Samuel Castellanos"
+  },
+  {
+   "id": "111277354",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Tchouaméni",
+   "amount": 31311801.0,
+   "created_at": "2026-11-05T09:42:40+01:00",
+   "date": "05/11 09:42",
+   "user1": "Floperneta",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "111263482",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Isi",
+   "amount": 6031868.0,
+   "created_at": "2026-11-05T08:55:17+01:00",
+   "date": "05/11 08:55",
+   "user1": "Sergio Lopera_UVI",
+   "user2": null
+  },
+  {
+   "id": "111263481",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Cabrera",
+   "amount": 16202000.0,
+   "created_at": "2026-11-05T08:55:17+01:00",
+   "date": "05/11 08:55",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "111263479",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "R. Terrats",
+   "amount": 21645852.0,
+   "created_at": "2026-11-05T08:55:17+01:00",
+   "date": "05/11 08:55",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "111259902",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Moi Gómez",
+   "amount": 5000000.0,
+   "created_at": "2026-11-05T08:41:40+01:00",
+   "date": "05/11 08:41",
+   "user1": "Sergio Lopera_UVI",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "110856088",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Recio",
+   "amount": 5343254.0,
+   "created_at": "2026-11-04T18:06:32+01:00",
+   "date": "04/11 18:06",
+   "user1": "Real Cortijo F.C",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "110566002",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Pablo Ramón",
+   "amount": 1973672.0,
+   "created_at": "2026-11-04T09:54:21+01:00",
+   "date": "04/11 09:54",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "110563314",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Ilaix Moriba",
+   "amount": 32147137.0,
+   "created_at": "2026-11-04T09:45:29+01:00",
+   "date": "04/11 09:45",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Sergio Lopera_UVI"
+  },
+  {
+   "id": "110561639",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Budimir",
+   "amount": 71287950.0,
+   "created_at": "2026-11-04T09:39:56+01:00",
+   "date": "04/11 09:39",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "110561590",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Julián Alvarez",
+   "amount": 58298851.0,
+   "created_at": "2026-11-04T09:39:41+01:00",
+   "date": "04/11 09:39",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Floperneta"
+  },
+  {
+   "id": "110561333",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Jon Martin",
+   "amount": 22465803.0,
+   "created_at": "2026-11-04T09:38:58+01:00",
+   "date": "04/11 09:38",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "110561232",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Paredes",
+   "amount": 30654104.0,
+   "created_at": "2026-11-04T09:38:31+01:00",
+   "date": "04/11 09:38",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "110556895",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Maroan",
+   "amount": 641696.0,
+   "created_at": "2026-11-04T09:22:55+01:00",
+   "date": "04/11 09:22",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "110550186",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Hjulmand",
+   "amount": 16400000.0,
+   "created_at": "2026-11-04T08:55:29+01:00",
+   "date": "04/11 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "110550185",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Mario Soriano",
+   "amount": 48621322.0,
+   "created_at": "2026-11-04T08:55:29+01:00",
+   "date": "04/11 08:55",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "110550184",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Buchanan",
+   "amount": 5658985.0,
+   "created_at": "2026-11-04T08:55:29+01:00",
+   "date": "04/11 08:55",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "110550183",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Félix Correia",
+   "amount": 8680690.0,
+   "created_at": "2026-11-04T08:55:29+01:00",
+   "date": "04/11 08:55",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "110550182",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Gorrotxa",
+   "amount": 1193220.0,
+   "created_at": "2026-11-04T08:55:29+01:00",
+   "date": "04/11 08:55",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "110550181",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Canales",
+   "amount": 14365484.0,
+   "created_at": "2026-11-04T08:55:29+01:00",
+   "date": "04/11 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "110397030",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "A. Castrín",
+   "amount": 11267580.0,
+   "created_at": "2026-11-03T22:31:29+01:00",
+   "date": "03/11 22:31",
+   "user1": "Floperneta",
+   "user2": "Los 11 de Riquelme"
+  },
+  {
+   "id": "110046720",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Ez Abde",
+   "amount": 84195490.0,
+   "created_at": "2026-11-03T15:27:05+01:00",
+   "date": "03/11 15:27",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Don cipotedelaMancha"
+  },
+  {
+   "id": "109872216",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Grimaldo",
+   "amount": 96880130.0,
+   "created_at": "2026-11-03T09:42:20+01:00",
+   "date": "03/11 09:42",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "109863303",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Moleiro",
+   "amount": 88241137.0,
+   "created_at": "2026-11-03T09:10:58+01:00",
+   "date": "03/11 09:10",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "109863160",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Niño",
+   "amount": 12750896.0,
+   "created_at": "2026-11-03T09:10:24+01:00",
+   "date": "03/11 09:10",
+   "user1": "Floperneta",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "109859731",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Carvajal",
+   "amount": 10269474.0,
+   "created_at": "2026-11-03T08:56:59+01:00",
+   "date": "03/11 08:56",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "109859504",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Cuti Romero",
+   "amount": 61261219.0,
+   "created_at": "2026-11-03T08:56:04+01:00",
+   "date": "03/11 08:56",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "109859325",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Paredes",
+   "amount": 32500000.0,
+   "created_at": "2026-11-03T08:55:20+01:00",
+   "date": "03/11 08:55",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "109859324",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Riquelme",
+   "amount": 12177809.0,
+   "created_at": "2026-11-03T08:55:20+01:00",
+   "date": "03/11 08:55",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "109859323",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Freeman",
+   "amount": 11786258.0,
+   "created_at": "2026-11-03T08:55:20+01:00",
+   "date": "03/11 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "106731684",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Pedrosa",
+   "amount": 5771405.0,
+   "created_at": "2026-11-02T13:33:11+01:00",
+   "date": "02/11 13:33",
+   "user1": "Samuel Castellanos",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "106731548",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Bryan",
+   "amount": 18785508.0,
+   "created_at": "2026-11-02T13:32:58+01:00",
+   "date": "02/11 13:32",
+   "user1": "Samuel Castellanos",
+   "user2": "Floperneta"
+  },
+  {
+   "id": "106624573",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Dubasin",
+   "amount": 2794974.0,
+   "created_at": "2026-11-02T09:04:03+01:00",
+   "date": "02/11 09:04",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "106624562",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "R. Brugué",
+   "amount": 8064511.0,
+   "created_at": "2026-11-02T09:03:57+01:00",
+   "date": "02/11 09:03",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "106624389",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Natan",
+   "amount": 56225496.0,
+   "created_at": "2026-11-02T09:03:10+01:00",
+   "date": "02/11 09:03",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "106622682",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Valverde",
+   "amount": 66608996.0,
+   "created_at": "2026-11-02T08:55:07+01:00",
+   "date": "02/11 08:55",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "106622668",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Grimaldo",
+   "amount": 94258000.0,
+   "created_at": "2026-11-02T08:55:04+01:00",
+   "date": "02/11 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "105979945",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Y. Zabiri",
+   "amount": 47000000.0,
+   "created_at": "2026-11-01T08:55:04+01:00",
+   "date": "01/11 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "105888887",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Marcos Llorente",
+   "amount": 61853240.0,
+   "created_at": "2026-10-31T23:04:28+01:00",
+   "date": "31/10 23:04",
+   "user1": "Lecumberri FC",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "105608908",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Cucurella",
+   "amount": 35903099.0,
+   "created_at": "2026-10-31T15:33:56+01:00",
+   "date": "31/10 15:33",
+   "user1": "Floperneta",
+   "user2": "Los 11 de Riquelme"
+  },
+  {
+   "id": "105571856",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Moleiro",
+   "amount": 94000020.0,
+   "created_at": "2026-10-31T14:27:16+01:00",
+   "date": "31/10 14:27",
+   "user1": "Floperneta",
+   "user2": "Samuel Castellanos"
+  },
+  {
+   "id": "105571305",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Ayoze",
+   "amount": 35731740.0,
+   "created_at": "2026-10-31T14:25:52+01:00",
+   "date": "31/10 14:25",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "105477536",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Foyth",
+   "amount": 13470002.0,
+   "created_at": "2026-10-31T08:58:34+01:00",
+   "date": "31/10 08:58",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "105477134",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Yuri",
+   "amount": 23200000.0,
+   "created_at": "2026-10-31T08:55:33+01:00",
+   "date": "31/10 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "105477130",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Natan",
+   "amount": 51250000.0,
+   "created_at": "2026-10-31T08:55:30+01:00",
+   "date": "31/10 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "105477129",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Boyomo",
+   "amount": 7111255.0,
+   "created_at": "2026-10-31T08:55:30+01:00",
+   "date": "31/10 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "105433666",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "C. Soler",
+   "amount": 58026497.0,
+   "created_at": "2026-10-31T00:43:37+01:00",
+   "date": "31/10 00:43",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "105161862",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Gerard Martín",
+   "amount": 44204035.0,
+   "created_at": "2026-10-30T17:38:37+01:00",
+   "date": "30/10 17:38",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "104930053",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Parrott",
+   "amount": 16552174.0,
+   "created_at": "2026-10-30T08:55:24+01:00",
+   "date": "30/10 08:55",
+   "user1": "Don cipotedelaMancha",
+   "user2": null
+  },
+  {
+   "id": "104930052",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Cuti Romero",
+   "amount": 54865388.0,
+   "created_at": "2026-10-30T08:55:24+01:00",
+   "date": "30/10 08:55",
+   "user1": "Los 11 de Riquelme",
+   "user2": null
+  },
+  {
+   "id": "104930051",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Turrientes",
+   "amount": 5135955.0,
+   "created_at": "2026-10-30T08:55:24+01:00",
+   "date": "30/10 08:55",
+   "user1": "Don cipotedelaMancha",
+   "user2": null
+  },
+  {
+   "id": "104205821",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "I. Romero",
+   "amount": 8094875.0,
+   "created_at": "2026-10-29T10:44:37+01:00",
+   "date": "29/10 10:44",
+   "user1": "La Cerdineta",
+   "user2": "Floperneta"
+  },
+  {
+   "id": "104204958",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Balliu",
+   "amount": 1000000.0,
+   "created_at": "2026-10-29T10:42:46+01:00",
+   "date": "29/10 10:42",
+   "user1": "La Cerdineta",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "104195000",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Unai Lopez",
+   "amount": 26901617.0,
+   "created_at": "2026-10-29T10:20:02+01:00",
+   "date": "29/10 10:20",
+   "user1": "Los 11 de Riquelme",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "104194666",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Budimir",
+   "amount": 78576078.0,
+   "created_at": "2026-10-29T10:19:10+01:00",
+   "date": "29/10 10:19",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "104194608",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Febas",
+   "amount": 11250000.0,
+   "created_at": "2026-10-29T10:19:03+01:00",
+   "date": "29/10 10:19",
+   "user1": "Los 11 de Riquelme",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "104184329",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Oyarzabal",
+   "amount": 55493212.0,
+   "created_at": "2026-10-29T09:53:45+01:00",
+   "date": "29/10 09:53",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "104171103",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Cubarsí",
+   "amount": 66460024.0,
+   "created_at": "2026-10-29T09:13:57+01:00",
+   "date": "29/10 09:13",
+   "user1": "Sergio Lopera_UVI",
+   "user2": "Los 11 de Riquelme"
+  },
+  {
+   "id": "104166007",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Eriksson",
+   "amount": 688885.0,
+   "created_at": "2026-10-29T08:57:19+01:00",
+   "date": "29/10 08:57",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "104165639",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Blanco",
+   "amount": 13087804.0,
+   "created_at": "2026-10-29T08:56:02+01:00",
+   "date": "29/10 08:56",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "104165470",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Maroan",
+   "amount": 573636.0,
+   "created_at": "2026-10-29T08:55:21+01:00",
+   "date": "29/10 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "104165449",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Gerard Martín",
+   "amount": 42303500.0,
+   "created_at": "2026-10-29T08:55:18+01:00",
+   "date": "29/10 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "104165443",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Marc Roca",
+   "amount": 25450002.0,
+   "created_at": "2026-10-29T08:55:16+01:00",
+   "date": "29/10 08:55",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "104165442",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Arda Güler",
+   "amount": 121565802.0,
+   "created_at": "2026-10-29T08:55:16+01:00",
+   "date": "29/10 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "104165441",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Marc Pubill",
+   "amount": 45367560.0,
+   "created_at": "2026-10-29T08:55:16+01:00",
+   "date": "29/10 08:55",
+   "user1": "Don cipotedelaMancha",
+   "user2": null
+  },
+  {
+   "id": "103949844",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Javi Hernández",
+   "amount": 26562347.0,
+   "created_at": "2026-10-28T21:54:12+01:00",
+   "date": "28/10 21:54",
+   "user1": "Lecumberri FC",
+   "user2": "Don cipotedelaMancha"
+  },
+  {
+   "id": "103940830",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Lemar",
+   "amount": 17542701.0,
+   "created_at": "2026-10-28T21:45:19+01:00",
+   "date": "28/10 21:45",
+   "user1": "Floperneta",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "103396387",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Emil Audero",
+   "amount": 4850000.0,
+   "created_at": "2026-10-28T08:55:18+01:00",
+   "date": "28/10 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "103396386",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Satriano",
+   "amount": 17512568.0,
+   "created_at": "2026-10-28T08:55:18+01:00",
+   "date": "28/10 08:55",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "103396384",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Javi Rodríguez",
+   "amount": 7150000.0,
+   "created_at": "2026-10-28T08:55:18+01:00",
+   "date": "28/10 08:55",
+   "user1": "Lecumberri FC",
+   "user2": null
+  },
+  {
+   "id": "103394356",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Guedes",
+   "amount": 36300000.0,
+   "created_at": "2026-10-28T08:47:26+01:00",
+   "date": "28/10 08:47",
+   "user1": "Floperneta",
+   "user2": "La Cerdineta"
+  },
+  {
+   "id": "103377258",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Konaté",
+   "amount": 34500000.0,
+   "created_at": "2026-10-28T07:47:42+01:00",
+   "date": "28/10 07:47",
+   "user1": "La Cerdineta",
+   "user2": "Floperneta"
+  },
+  {
+   "id": "102901015",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Álex Baena",
+   "amount": 103496305.0,
+   "created_at": "2026-10-27T16:54:32+01:00",
+   "date": "27/10 16:54",
+   "user1": "Don cipotedelaMancha",
+   "user2": "Sergio Lopera_UVI"
+  },
+  {
+   "id": "102666587",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Foyth",
+   "amount": 16292174.0,
+   "created_at": "2026-10-27T11:38:06+01:00",
+   "date": "27/10 11:38",
+   "user1": "Samuel Castellanos",
+   "user2": "Lecumberri FC"
+  },
+  {
+   "id": "102618740",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Hugo Alvarez",
+   "amount": 5696497.0,
+   "created_at": "2026-10-27T09:44:59+01:00",
+   "date": "27/10 09:44",
+   "user1": "Real Cortijo F.C",
+   "user2": "Sergio Lopera_UVI"
+  },
+  {
+   "id": "102618467",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Suazo",
+   "amount": 11306590.0,
+   "created_at": "2026-10-27T09:44:03+01:00",
+   "date": "27/10 09:44",
+   "user1": "La Cerdineta",
+   "user2": "Real Cortijo F.C"
+  },
+  {
+   "id": "102616898",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Agoumé",
+   "amount": 21137578.0,
+   "created_at": "2026-10-27T09:39:28+01:00",
+   "date": "27/10 09:39",
+   "user1": "La Cerdineta",
+   "user2": "Los 11 de Riquelme"
+  },
+  {
+   "id": "102616241",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Morcillo",
+   "amount": 4874166.0,
+   "created_at": "2026-10-27T09:37:37+01:00",
+   "date": "27/10 09:37",
+   "user1": "La Cerdineta",
+   "user2": "Floperneta"
+  },
+  {
+   "id": "102615770",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Rodri",
+   "amount": 104703160.0,
+   "created_at": "2026-10-27T09:36:11+01:00",
+   "date": "27/10 09:36",
+   "user1": "La Cerdineta",
+   "user2": null
+  },
+  {
+   "id": "102603272",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "I. Akhomach",
+   "amount": 19654322.0,
+   "created_at": "2026-10-27T08:55:14+01:00",
+   "date": "27/10 08:55",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "102603271",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Fer Niño",
+   "amount": 45000000.0,
+   "created_at": "2026-10-27T08:55:14+01:00",
+   "date": "27/10 08:55",
+   "user1": "Sergio Lopera_UVI",
+   "user2": null
+  },
+  {
+   "id": "102603270",
+   "kind": "market_signing",
+   "title": "COMPRA AL SISTEMA",
+   "player": "Cardona",
+   "amount": 3621322.0,
+   "created_at": "2026-10-27T08:55:14+01:00",
+   "date": "27/10 08:55",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "99937149",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Pathé I. Ciss",
+   "amount": 15861087.0,
+   "created_at": "2026-10-26T23:09:45+01:00",
+   "date": "26/10 23:09",
+   "user1": "Sergio Lopera_UVI",
+   "user2": null
+  },
+  {
+   "id": "99883687",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Larrubia",
+   "amount": 14684645.0,
+   "created_at": "2026-10-26T22:13:21+01:00",
+   "date": "26/10 22:13",
+   "user1": "Floperneta",
+   "user2": null
+  },
+  {
+   "id": "99349450",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Giuliano",
+   "amount": 57129582.0,
+   "created_at": "2026-10-26T09:24:44+01:00",
+   "date": "26/10 09:24",
+   "user1": "Samuel Castellanos",
+   "user2": null
+  },
+  {
+   "id": "99342441",
+   "kind": "system_sale",
+   "title": "VENTA AL SISTEMA",
+   "player": "Ibañez",
+   "amount": 22154283.0,
+   "created_at": "2026-10-26T08:57:11+01:00",
+   "date": "26/10 08:57",
+   "user1": "Real Cortijo F.C",
+   "user2": null
+  },
+  {
+   "id": "99342090",
+   "kind": "buyout",
+   "title": "CLAUSULAZO",
+   "player": "Revivo",
+   "amount": 4725209.0,
+   "created_at": "2026-10-26T08:55:30+01:00",
+   "date": "26/10 08:55",
+   "user1": "Real Cortijo F.C",
+   "user2": "Floperneta"
+  }
+ ],
+ "euro": {
+  "pot": 34,
+  "balances": [
+   {
+    "team_id": "37621299",
+    "team": "Sergio Lopera_UVI",
+    "amount": 9,
+    "weeks": [
+     {
+      "week": 2,
+      "points": 39.0,
+      "amount": 1
+     },
+     {
+      "week": 4,
+      "points": 39.0,
+      "amount": 1
+     },
+     {
+      "week": 5,
+      "points": 11.0,
+      "amount": 1
+     },
+     {
+      "week": 6,
+      "points": 46.0,
+      "amount": 1
+     },
+     {
+      "week": 7,
+      "points": 40.0,
+      "amount": 1
+     },
+     {
+      "week": 9,
+      "points": 43.0,
+      "amount": 1
+     },
+     {
+      "week": 10,
+      "points": 41.0,
+      "amount": 1
+     },
+     {
+      "week": 11,
+      "points": 31.0,
+      "amount": 1
+     },
+     {
+      "week": 12,
+      "points": 45.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37621655",
+    "team": "Los 11 de Riquelme",
+    "amount": 6,
+    "weeks": [
+     {
+      "week": 1,
+      "points": 34.0,
+      "amount": 1
+     },
+     {
+      "week": 2,
+      "points": 23.0,
+      "amount": 1
+     },
+     {
+      "week": 3,
+      "points": 41.0,
+      "amount": 1
+     },
+     {
+      "week": 4,
+      "points": 45.0,
+      "amount": 1
+     },
+     {
+      "week": 7,
+      "points": 35.0,
+      "amount": 1
+     },
+     {
+      "week": 10,
+      "points": 31.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37621687",
+    "team": "Don cipotedelaMancha",
+    "amount": 4,
+    "weeks": [
+     {
+      "week": 3,
+      "points": 41.0,
+      "amount": 1
+     },
+     {
+      "week": 4,
+      "points": 30.0,
+      "amount": 1
+     },
+     {
+      "week": 10,
+      "points": 37.0,
+      "amount": 1
+     },
+     {
+      "week": 12,
+      "points": 35.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37621218",
+    "team": "Floperneta",
+    "amount": 4,
+    "weeks": [
+     {
+      "week": 1,
+      "points": 34.0,
+      "amount": 1
+     },
+     {
+      "week": 2,
+      "points": 41.0,
+      "amount": 1
+     },
+     {
+      "week": 5,
+      "points": 37.0,
+      "amount": 1
+     },
+     {
+      "week": 11,
+      "points": 35.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37621293",
+    "team": "Lecumberri FC",
+    "amount": 4,
+    "weeks": [
+     {
+      "week": 3,
+      "points": 33.0,
+      "amount": 1
+     },
+     {
+      "week": 5,
+      "points": 50.0,
+      "amount": 1
+     },
+     {
+      "week": 6,
+      "points": 23.0,
+      "amount": 1
+     },
+     {
+      "week": 11,
+      "points": 49.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37621306",
+    "team": "Samuel Castellanos",
+    "amount": 4,
+    "weeks": [
+     {
+      "week": 1,
+      "points": 25.0,
+      "amount": 1
+     },
+     {
+      "week": 3,
+      "points": 39.0,
+      "amount": 1
+     },
+     {
+      "week": 9,
+      "points": 39.0,
+      "amount": 1
+     },
+     {
+      "week": 12,
+      "points": 52.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37621151",
+    "team": "La Cerdineta",
+    "amount": 2,
+    "weeks": [
+     {
+      "week": 7,
+      "points": 40.0,
+      "amount": 1
+     },
+     {
+      "week": 9,
+      "points": 34.0,
+      "amount": 1
+     }
+    ]
+   },
+   {
+    "team_id": "37622426",
+    "team": "Real Cortijo F.C",
+    "amount": 1,
+    "weeks": [
+     {
+      "week": 6,
+      "points": 20.0,
+      "amount": 1
+     }
+    ]
+   }
+  ],
+  "settled": [
+   {
+    "week": 1,
+    "cutoff": 34.0,
+    "payers": 3
+   },
+   {
+    "week": 2,
+    "cutoff": 41.0,
+    "payers": 3
+   },
+   {
+    "week": 3,
+    "cutoff": 41.0,
+    "payers": 4
+   },
+   {
+    "week": 4,
+    "cutoff": 45.0,
+    "payers": 3
+   },
+   {
+    "week": 5,
+    "cutoff": 50.0,
+    "payers": 3
+   },
+   {
+    "week": 6,
+    "cutoff": 46.0,
+    "payers": 3
+   },
+   {
+    "week": 7,
+    "cutoff": 40.0,
+    "payers": 3
+   },
+   {
+    "week": 9,
+    "cutoff": 43.0,
+    "payers": 3
+   },
+   {
+    "week": 10,
+    "cutoff": 41.0,
+    "payers": 3
+   },
+   {
+    "week": 11,
+    "cutoff": 49.0,
+    "payers": 3
+   },
+   {
+    "week": 12,
+    "cutoff": 52.0,
+    "payers": 3
+   }
+  ],
+  "provisional": {
+   "week": 8,
+   "cutoff": 40.0,
+   "payers": [
+    {
+     "team": "Lecumberri FC",
+     "points": 31.0
+    },
+    {
+     "team": "Los 11 de Riquelme",
+     "points": 37.0
+    },
+    {
+     "team": "La Cerdineta",
+     "points": 40.0
+    },
+    {
+     "team": "Real Cortijo F.C",
+     "points": 40.0
+    }
+   ]
+  },
+  "pending": []
+ },
+ "matchdays": {
+  "active": [
+   8
+  ],
+  "finished": 9,
+  "total": 10,
+  "next_match": "2026-12-09T20:00:00+01:00",
+  "weeks": {
+   "1": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-08-15T19:30:00+02:00",
+    "next_match": null,
+    "last_match": "2026-08-27T21:00:00+02:00"
+   },
+   "2": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-08-20T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-08-24T21:30:00+02:00"
+   },
+   "3": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-08-28T19:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-08-31T21:30:00+02:00"
+   },
+   "4": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-09-04T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-09-07T21:30:00+02:00"
+   },
+   "5": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-09-11T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-09-14T21:00:00+02:00"
+   },
+   "6": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-09-03T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-10-21T20:00:00+02:00"
+   },
+   "7": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-09-18T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-09-20T21:00:00+02:00"
+   },
+   "8": {
+    "finished": 9,
+    "total": 10,
+    "first_match": "2026-10-09T21:00:00+02:00",
+    "next_match": "2026-12-09T20:00:00+01:00",
+    "last_match": "2026-12-09T20:00:00+01:00"
+   },
+   "9": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-10-16T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-10-19T21:00:00+02:00"
+   },
+   "10": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-10-23T21:00:00+02:00",
+    "next_match": null,
+    "last_match": "2026-10-26T21:00:00+01:00"
+   },
+   "11": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-10-30T21:00:00+01:00",
+    "next_match": null,
+    "last_match": "2026-11-02T21:00:00+01:00"
+   },
+   "12": {
+    "finished": 10,
+    "total": 10,
+    "first_match": "2026-11-06T21:00:00+01:00",
+    "next_match": null,
+    "last_match": "2026-11-08T21:00:00+01:00"
+   },
+   "13": {
+    "finished": 0,
+    "total": 10,
+    "first_match": "2026-11-20T21:00:00+01:00",
+    "next_match": "2026-11-20T21:00:00+01:00",
+    "last_match": "2026-11-23T21:00:00+01:00"
+   }
+  },
+  "next_week": {
+   "week": 13,
+   "starts_at": "2026-11-20T21:00:00+01:00"
+  }
+ }
+}
