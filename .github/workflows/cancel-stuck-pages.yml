@@ -1,0 +1,64 @@
+name: Cancel stuck Pages deployment
+
+on:
+  workflow_dispatch:
+    inputs:
+      deployment_id:
+        description: Pages deployment ID or commit SHA
+        required: false
+  push:
+
+permissions:
+  pages: write
+
+jobs:
+  cancel:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, 'unlock Pages deployment')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel stale deployment
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const deploymentId = '${{ inputs.deployment_id }}' || 'f30fe9479eca503ecfc427bcf6aa7ed8e98cd1c1'
+            await github.request('POST /repos/{owner}/{repo}/pages/deployments/{pages_deployment_id}/cancel', {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pages_deployment_id: deploymentId
+            })
+            for (let attempt = 1; attempt <= 30; attempt++) {
+              const response = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{pages_deployment_id}', {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pages_deployment_id: deploymentId
+              })
+              core.info(`Pages deployment status: ${response.data.status}`)
+              if (response.data.status === 'deployment_cancelled') return
+              await new Promise(resolve => setTimeout(resolve, 10000))
+            }
+            core.setFailed('Pages did not finish cancelling within five minutes')
+
+  reset:
+    if: contains(github.event.head_commit.message, 'reset Pages site')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recreate Pages site
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const request = { owner: context.repo.owner, repo: context.repo.repo }
+            await github.request('DELETE /repos/{owner}/{repo}/pages', request)
+            for (let attempt = 1; attempt <= 30; attempt++) {
+              try {
+                await github.request('GET /repos/{owner}/{repo}/pages', request)
+              } catch (error) {
+                if (error.status === 404) break
+                throw error
+              }
+              await new Promise(resolve => setTimeout(resolve, 5000))
+            }
+            await github.request('POST /repos/{owner}/{repo}/pages', {
+              ...request,
+              build_type: 'legacy',
+              source: { branch: 'gh-pages', path: '/' }
+            })
