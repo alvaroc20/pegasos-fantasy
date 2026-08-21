@@ -1,0 +1,14 @@
+{
+ "built_at": "2026-11-07T19:28:41+00:00",
+ "divisions": [
+  {
+   "slug": "primera",
+   "name": "Primera",
+   "status": "ok",
+   "league_name": "PRIMERA PEGASOS",
+   "teams": 8,
+   "refreshed_at": "2026-11-07T19:28:41.265064+00:00",
+   "refresh_ok": true
+  }
+ ]
+}
