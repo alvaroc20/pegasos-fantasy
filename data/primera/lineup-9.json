@@ -1,0 +1,725 @@
+{
+ "week": 9,
+ "teams": {
+  "37621151": [
+   {
+    "player": "A. Herrero",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Jonny Otto",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Pedrosa",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Recio",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Moncayola",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "R. Terrats",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Tchouaméni",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Unai Lopez",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Cepeda",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 4.0,
+    "owned": true
+   },
+   {
+    "player": "Lucas Boyé",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Y. Zabiri",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   }
+  ],
+  "37621218": [
+   {
+    "player": "Gulácsi",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": 11.0,
+    "owned": true
+   },
+   {
+    "player": "Revivo",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "De Haas",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Konaté",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Q. Hartman",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 0.0,
+    "owned": true
+   },
+   {
+    "player": "Barrenetxea",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Bellingham",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": false
+   },
+   {
+    "player": "C. Soler",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Fofana",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Larrubia",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "I. Romero",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 1.0,
+    "owned": true
+   }
+  ],
+  "37621293": [
+   {
+    "player": "Leo Román",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": 4.0,
+    "owned": true
+   },
+   {
+    "player": "Foyth",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "Einar",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Mantilla",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Marcos Alonso",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Lemar",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 7.0,
+    "owned": true
+   },
+   {
+    "player": "A. Rebbach",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Blanco",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Febas",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Bryan",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "Budimir",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   }
+  ],
+  "37621299": [
+   {
+    "player": "C. Rivero",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Kounde",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 1.0,
+    "owned": true
+   },
+   {
+    "player": "Areso",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Yeray",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Álex Baena",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 10.0,
+    "owned": true
+   },
+   {
+    "player": "M. Aguado",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 2.0,
+    "owned": true
+   },
+   {
+    "player": "Hugo Alvarez",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Pathé I. Ciss",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "R. Brugué",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 3.0,
+    "owned": true
+   },
+   {
+    "player": "Ez Abde",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 1.0,
+    "owned": true
+   },
+   {
+    "player": "Oskarsson",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   }
+  ],
+  "37621306": [
+   {
+    "player": "Oblak",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": 12.0,
+    "owned": true
+   },
+   {
+    "player": "Djene",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Yoel Lago",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Álvaro Núñez",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Moleiro",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 8.0,
+    "owned": true
+   },
+   {
+    "player": "Mario Soriano",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 2.0,
+    "owned": true
+   },
+   {
+    "player": "Dani Lorenzo",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "H. González",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Ilaix Moriba",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Julián Alvarez",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 9.0,
+    "owned": true
+   },
+   {
+    "player": "Roberto",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 2.0,
+    "owned": true
+   }
+  ],
+  "37621655": [
+   {
+    "player": "Remiro",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Cubarsí",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 7.0,
+    "owned": true
+   },
+   {
+    "player": "Quagliata",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 4.0,
+    "owned": false
+   },
+   {
+    "player": "El Hilali",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 2.0,
+    "owned": true
+   },
+   {
+    "player": "Kike Salas",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Olmo",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "Agoumé",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Herrera",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "De Frutos",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Oyarzabal",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Cucho",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": -2.0,
+    "owned": true
+   }
+  ],
+  "37621687": [
+   {
+    "player": "Agirrezabala",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Cuti Romero",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 7.0,
+    "owned": true
+   },
+   {
+    "player": "Ximo Navarro",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 7.0,
+    "owned": true
+   },
+   {
+    "player": "Gudelj",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Sergio Gómez",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Javi Hernández",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "Javi Guerra",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Sucic",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Giuliano",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "J. David",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "Pablo García",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   }
+  ],
+  "37622426": [
+   {
+    "player": "Dimitrievski",
+    "position": "POR",
+    "position_id": 1,
+    "slot": "goalkeeper",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Giménez",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": 6.0,
+    "owned": true
+   },
+   {
+    "player": "Abel Bretones",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Pablo Ramón",
+    "position": "DEF",
+    "position_id": 2,
+    "slot": "defender",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Guido Rodríguez",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Iván Martín",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Pepelu",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Rubén García",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Álvaro García",
+    "position": "MED",
+    "position_id": 3,
+    "slot": "midfield",
+    "points": null,
+    "owned": true
+   },
+   {
+    "player": "Bil Nsongo",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": 8.0,
+    "owned": true
+   },
+   {
+    "player": "Camello",
+    "position": "DEL",
+    "position_id": 4,
+    "slot": "striker",
+    "points": null,
+    "owned": true
+   }
+  ]
+ }
+}
